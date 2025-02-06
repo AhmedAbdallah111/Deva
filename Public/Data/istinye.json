@@ -1,0 +1,403 @@
+{
+    "contact_info": {
+      "id": "istinye",
+      "name": "جامعة إستينيا - Istinye University",
+      "website": "https://www.istinye.edu.tr",
+      "cover": "../images/Istinye-University.jpg",
+      "logo": "../images/Istinye-University-1.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": "https://www.youtube.com/embed/PPnS6ZzPNos"
+    },
+    "title": "جامعة إستينيا Istinye University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة إستينيا (Istinye University) هي جامعة تركية خاصة تأسست عام 2015، وهي واحدة من المؤسسات التعليمية الحديثة التي تهدف إلى توفير تعليم عالي الجودة. تتميز الجامعة بمناهجها المبتكرة وتركيزها على البحث العلمي، مما يجعلها واحدة من الوجهات الدراسية البارزة في تركيا.",
+    "sections": [
+      {
+        "heading": "موقع جامعة إستينيا",
+        "content": [
+          "تقع الجامعة في إسطنبول، وتحديدًا في منطقتي توبكابي وباهجي شهير، مما يوفر بيئة تعليمية متميزة ومرافق حديثة.",
+          "توفر الجامعة سهولة الوصول إلى وسائل النقل العامة والمعالم الرئيسية في إسطنبول."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة إستينيا",
+        "faculties": [
+          {
+            "name": "كلية الطب",
+            "description": "تقدم تعليمًا متميزًا في مجال الطب مع تدريب عملي في مستشفيات شريكة."
+          },
+          {
+            "name": "كلية الهندسة",
+            "description": "تشمل تخصصات مثل هندسة الكمبيوتر، والهندسة الصناعية، وهندسة البرمجيات."
+          },
+          {
+            "name": "كلية العلوم الصحية",
+            "description": "تغطي مجالات مثل التمريض، التغذية، والعلاج الطبيعي."
+          },
+          {
+            "name": "كلية إدارة الأعمال",
+            "description": "تقدم برامج متميزة في إدارة الأعمال، الاقتصاد، وريادة الأعمال."
+          },
+          {
+            "name": "كلية الفنون والتصميم",
+            "description": "تشمل تخصصات في التصميم الجرافيكي، والفنون البصرية، والتصميم الداخلي."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة إستينيا",
+        "content": "تُدرس معظم برامج الجامعة باللغة التركية، مع وجود برامج تُدرس باللغة الإنجليزية لتلبية احتياجات الطلاب الدوليين."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة إستينيا",
+        "features": [
+          {
+            "title": "موقع مميز",
+            "description": "تقع الجامعة في مواقع استراتيجية توفر سهولة الوصول والخدمات الممتازة."
+          },
+          {
+            "title": "برامج أكاديمية متنوعة",
+            "description": "توفر الجامعة مجموعة واسعة من التخصصات التي تلبي مختلف اهتمامات الطلاب."
+          },
+          {
+            "title": "شراكات مع مؤسسات دولية",
+            "description": "تمتلك الجامعة تعاونًا مع العديد من الجامعات والمؤسسات الدولية لتوفير فرص التبادل الأكاديمي."
+          },
+          {
+            "title": "بنية تحتية متطورة",
+            "description": "تشمل مختبرات حديثة، مكتبات غنية، ومرافق تعليمية متقدمة."
+          },
+          {
+            "title": "مجتمع طلابي عالمي",
+            "description": "تضم الجامعة طلابًا من مختلف الجنسيات، مما يخلق بيئة تعليمية متعددة الثقافات."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة إستينيا",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر التخصص الذي ترغب في دراسته.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات)."
+        ],
+        "website": "https://www.istinye.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة إستينيا",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة إستينيا برامج باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة برامج مختارة باللغة الإنجليزية لتلبية احتياجات الطلاب الدوليين."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة إستينيا؟",
+            "answer": "تستغرق برامج البكالوريوس عادةً 4 سنوات، بينما تختلف مدة الدراسات العليا حسب التخصص."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة منحًا دراسية متنوعة بناءً على الأداء الأكاديمي والاحتياجات المادية."
+          },
+          {
+            "question": "هل يمكنني التقديم للجامعة عبر الإنترنت؟",
+            "answer": "نعم، يمكنك التقديم من خلال الموقع الرسمي للجامعة وتقديم الوثائق المطلوبة."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة إستينيا (Istinye University) تُعد خيارًا مميزًا للطلاب الباحثين عن تعليم عالي الجودة في بيئة تعليمية متطورة. بفضل تنوع برامجها ومرافقها الحديثة، تتيح الجامعة تجربة تعليمية استثنائية. لا تتردد في التقديم الآن واستكشاف فرصك المستقبلية في جامعة إستينيا!",
+    "prices": {
+          "priceBachelor": [
+            {
+              "specialization": "Medicine-الطب البشري",
+              "language": "English",
+              "original_fee": 26400,
+              "discounted_fee_1": 26400,
+              "discounted_fee_2": 25080
+            },
+            {
+              "specialization": "Dentistry-طب الأسنان",
+              "language": "English",
+              "original_fee": 22200,
+              "discounted_fee_1": 22200,
+              "discounted_fee_2": 21090
+            },
+            {
+              "specialization": "Pharmacy-الصيدلة",
+              "language": "English",
+              "original_fee": 13700,
+              "discounted_fee_1": 13700,
+              "discounted_fee_2": 13015
+            },
+            {
+              "specialization": "Computer Engineering - هندسة الكمبيوتر",
+              "language": "English",
+              "original_fee": 7200,
+              "discounted_fee_1": 7200,
+              "discounted_fee_2": 6840
+            },
+            {
+              "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+              "language": "English",
+              "original_fee": 6000,
+              "discounted_fee_1": 6000,
+              "discounted_fee_2": 5700
+            },
+            {
+              "specialization": "Civil Engineering - الهندسة المدنية",
+              "language": "English",
+              "original_fee": 5778,
+              "discounted_fee_1": 5778,
+              "discounted_fee_2": 5489
+            },
+            {
+              "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+              "language": "English",
+              "original_fee": 6000,
+              "discounted_fee_1": 6000,
+              "discounted_fee_2": 5700
+            },
+            {
+              "specialization": "Software Engineering - هندسة البرمجيات",
+              "language": "English",
+              "original_fee": 7200,
+              "discounted_fee_1": 7200,
+              "discounted_fee_2": 6840
+            },
+            {
+              "specialization": "Industrial Engineering - الهندسة الصناعية",
+              "language": "English",
+              "original_fee": 6000,
+              "discounted_fee_1": 6000,
+              "discounted_fee_2": 5700
+            },
+            {
+              "specialization": "Architecture - العمارة",
+              "language": "English",
+              "original_fee": 6500,
+              "discounted_fee_1": 6500,
+              "discounted_fee_2": 6175
+            },
+            {
+              "specialization": "Business Administration -إدارة الأعمال",
+              "language": "English",
+              "original_fee": 6900,
+              "discounted_fee_1": 6900,
+              "discounted_fee_2": 6555
+            },
+            {
+              "specialization": "Management Information Systems - نظم المعلومات الادارية",
+              "language": "English",
+              "original_fee": 5700,
+              "discounted_fee_1": 5700,
+              "discounted_fee_2": 5415
+            },
+            {
+              "specialization": "International Relations - العلاقات الدولية",
+              "language": "English",
+              "original_fee": 5100,
+              "discounted_fee_1": 5100,
+              "discounted_fee_2": 4845
+            },
+            {
+              "specialization": "Psychology - علم النفس",
+              "language": "English",
+              "original_fee": 7900,
+              "discounted_fee_1": 7900,
+              "discounted_fee_2": 7505
+            },
+            {
+              "specialization": "Radio And Television Programming - راديو وتلفزيون وسينما",
+              "language": "English",
+              "original_fee": 5000,
+              "discounted_fee_1": 5000,
+              "discounted_fee_2": 4750
+            },
+            {
+              "specialization": "Gastronomy And Culinary Arts - فن الطهو وفنون الطهي",
+              "language": "English",
+              "original_fee": 6700,
+              "discounted_fee_1": 6700,
+              "discounted_fee_2": 6365
+            },
+            {
+              "specialization": "Physiotherapy And Rehabilitation - العلاج الطبيعي وإعادة التأهيل",
+              "language": "English",
+              "original_fee": 6900,
+              "discounted_fee_1": 6900,
+              "discounted_fee_2": 6555
+            },
+            {
+              "specialization": "Nursing - تمريض",
+              "language": "English",
+              "original_fee": 6500,
+              "discounted_fee_1": 6500,
+              "discounted_fee_2": 6175
+            },
+            {
+              "specialization": "Economics - الاقتصاد",
+              "language": "English",
+              "original_fee": 5000,
+              "discounted_fee_1": 5000,
+              "discounted_fee_2": 4750
+            },
+            {
+              "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+              "language": "English",
+              "original_fee": 5800,
+              "discounted_fee_1": 5800,
+              "discounted_fee_2": 5510
+            },
+            {
+              "specialization": "Mathematics - الرياضيات",
+              "language": "English",
+              "original_fee": 5000,
+              "discounted_fee_1": 5000,
+              "discounted_fee_2": 4750
+            },
+            {
+              "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+              "language": "English",
+              "original_fee": 5100,
+              "discounted_fee_1": 5100,
+              "discounted_fee_2": 4845
+            },
+            {
+              "specialization": "Digital Game Design - تصميم الألعاب الرقمية",
+              "language": "English",
+              "original_fee": 6500,
+              "discounted_fee_1": 6500,
+              "discounted_fee_2": 6175
+            },
+            {
+              "specialization": "Molecular Biology And Genetics - علم الأحياء الجزيئي وعلم الوراثة",
+              "language": "English",
+              "original_fee": 6250,
+              "discounted_fee_1": 6250,
+              "discounted_fee_2": 5938
+            },
+            {
+              "specialization": "New Media And Communication - وسائل الإعلام والاتصالات الجديدة",
+              "language": "English",
+              "original_fee": 5000,
+              "discounted_fee_1": 5000,
+              "discounted_fee_2": 4750
+            },
+            {
+              "specialization": "Genetics And Bioengineering - علم الوراثة والهندسة الحيوية",
+              "language": "English",
+              "original_fee": 4500,
+              "discounted_fee_1": 5400,
+              "discounted_fee_2": 5130
+            },
+            {
+              "specialization": "Biomedical Engineering- الهندسة الطبية الحيوية",
+              "language": "English",
+              "original_fee": 6900,
+              "discounted_fee_1": 6900,
+              "discounted_fee_2": 6555
+            },
+            {
+              "specialization": "Chemistry- الكيمياء",
+              "language": "English",
+              "original_fee": 5000,
+              "discounted_fee_1": 5000,
+              "discounted_fee_2": 4750
+            }
+            ],
+            "priceMaster": [
+              {
+                "specialization": "Computer Engineering - هندسة الكمبيوتر",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Business Administration -إدارة الأعمال",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Management Information Systems - نظم المعلومات الادارية",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Physiotherapy And Rehabilitation - العلاج الطبيعي وإعادة التأهيل",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Artificial Intelligence Engineering - هندسة الذكاء الاصطناعي",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Cinema And Television - السينما والتلفزيون",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Molecular Biology And Genetics - علم الأحياء الجزيئي وعلم الوراثة",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Cyber Security -الأمن المعلوماتي و السيبراني",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Big Data Analytics And Managment -تحليل لبيانات الكبيرة وادارتها",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              },
+              {
+                "specialization": "Architectural Design-التصميم المعماري",
+                "language": "English",
+                "original_fee": 8500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 8500
+              }
+              ],
+            "pricePhD":[
+              {
+                "specialization": "Chemistry- الكيمياء",
+                "language": "English",
+                "original_fee": 12500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 12500
+              },
+              {
+                "specialization": "Physics-الفيزياء",
+                "language": "English",
+               "original_fee": 12500,
+                "discounted_fee_1": null,
+                "discounted_fee_2": 12500
+              }
+              ]
+          }
+          
+        }

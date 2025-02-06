@@ -1,0 +1,245 @@
+
+{
+  "info": [
+    {
+      "id": "altinbas",
+      "name": "جامعة ألتن باش - Altinbas",
+      "cover": "../images/Altinbas-University.jpg",
+      "logo": "../images/Altinbas-Universitylogo.jpg",
+      "address": "إسطنبول، تركيا"
+    },
+    {
+      "id": "ankaraMedipol",
+      "name": "جامعة أنقرة ميديبول - Ankara Medipol University",
+      "cover": "../images/Ankara-Medipol-University.jpg",
+      "logo": "../images/ankara-medipol.jpg",
+      "address": "أنقرة, تركيا"
+    },
+    {
+      "id":"atilim",
+      "name":"جامعة أتيليم - Atilim University",
+      "cover":"../images/Atilim-University-2.jpg",
+      "logo":"../images/Atilim-Universitylogo.jpg",
+      "address": "أنقرة, تركيا"
+    },
+    {
+      "id":"bahcesehir",
+      "name":"جامعة بهشة شهير - Bahçeşehir University",
+      "cover":"../images/Bahcesehir-Istanbul.jpg",
+      "logo":"../images/University-logo-BAU.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id":"beykent",
+      "name":"جامعة بيكنت - Beykent University",
+      "cover":"../images/Beykent-University-2.jpg",
+      "logo":"../images/Beykent-University.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id":"beykoz",
+      "name":"جامعة بيكوز - Beykoz University",
+      "cover":"../images/Beykoz-University-1.jpg",
+      "logo":"../images/Beykoz-University.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id":"biruni",
+      "name":"جامعة بيروني Biruni University",
+      "cover":"../images/Biruni-University-1.jpg",
+      "logo":"../images/Biruni-University.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id": "fatih-Sultan-Mehmet",
+      "name": "جامعة فاتح سلطان محمد - Fatih Sultan Mehmet University",
+      
+      "cover": "../images/Fatih-Sultan-Mehmet-University-1.jpg",
+      "logo": "../images/Fatih-Sultan-Mehmet-University.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id": "fenerbahce",
+      "name": "جامعة فنربهتشه - Fenerbahce University",
+      "website": "https://www.fbu.edu.tr",
+      "cover": "../images/Fenerbahce-University-1.jpg",
+      "logo": "../images/Fenerbahce-University.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": ""
+    },
+    {
+      "id": "halic",
+      "name": "جامعة حليش - Halic University",
+      "website": "https://www.halic.edu.tr",
+      "cover": "../images/Halic-University.jpg",
+      "logo": "../images/Halic-University-1.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": ""
+    },
+    {
+      "id": "Isik",
+      "name": "جامعة إيشيك - Işık University",
+      "website": "https://www.isikun.edu.tr",
+      "cover": "../images/Isik-University.jpg",
+      "logo": "../images/Isik-University-1.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": ""
+    },
+    {
+      "id": "istanbularel",
+      "name": "جامعة إسطنبول أريل - Istanbul Arel University",
+      "website": "https://www.arel.edu.tr",
+      "cover": "../images/Istanbul-Arel-University 1.jpg",
+      "logo": "../images/Istanbul-Arel-University.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": ""
+    },
+    {
+      "id":"istanbulAydın",
+      "name":"جامعة إسطنبول آيدن Istanbul Aydın University",
+      "website":"https://www.aydin.edu.tr",
+      "cover":"../images/Istanbul-Aydin.jpg",
+      "logo":"../images/University-logo.jpg",
+      "address": "إسطنبول, تركيا",
+      "video":""
+    }, 
+    {
+      "id": "istanbulAtlas",
+      "name": "جامعة إسطنبول أطلس - Istanbul Atlas University",
+      "cover": "../images/Istanbul-Atlas.jpg",
+      "logo": "../images/Istanbul-Atlas-1.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id": "istanbul-bilgi",
+      "name": "جامعة إسطنبول بيلجي - Istanbul Bilgi University",
+      "cover": "../images/Istanbul-Bilgi-University-1.jpg",
+      "logo": "../images/Istanbul-Bilgi-University.jpg",
+      "address": "إسطنبول, تركيا"
+    }, 
+    {
+      "id": "istanbul-yeni-yuzyil",
+      "name": "جامعة إسطنبول يني يوزيل - Istanbul Yeni Yuzyil University",
+      "cover": "../images/Istanbul-Yeni-Yuzyil 1.jpg",
+      "logo": "../images/Istanbul-Yeni-Yuzyil.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id": "istinye",
+      "name": "جامعة إستينيا - Istinye University",
+      "cover": "../images/Istinye-University.jpg",
+      "logo": "../images/Istinye-University-1.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id": "ticaret",
+      "name": "جامعة إسطنبول تيجاريت - Istanbul Ticaret University",
+      "cover": "../images/Ticaret-1.jpg",
+      "logo": "../images/Ticaret.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      "id": "topkapi",
+      "name": "جامعة توبكابي - Topkapi University",
+      "cover": "../images/Topkapi-cover.jpg",
+      "logo": "../images/Topkapi.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "kent",
+      "name": "جامعة كينت - istanbul kent University",
+      "cover": "../images/Istanbul-Kent-.jpg",
+      "logo": "../images/Istanbul-Kent-2 (1).jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "kultur",
+      "name": "جامعة كيلتر - istanbul kultur University",
+      "cover": "../images/Istanbul-Arel-University.jpg",
+      "logo": "../images/Istanbul-Kultur-2.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "nisantasi",
+      "name": "جامعة نيشنتاشي - Nisantasi University",
+      "cover": "../images/Nisantasi-1.jpg",
+      "logo": "../images/Nisantasi.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "okan",
+      "name": "جامعة اوكان - istanbul okan University",
+      "cover": "../images/Okan-1.jpg",
+      "logo": "../images/Okan.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "sabaha",
+      "name": "جامعة صباح الدين زعيم - istanbul zaim University",
+      "cover": "../images/Sabahattin-Zaim.jpg",
+      "logo": "../images/Sabahattin-Zaim-University.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "galta",
+      "name": "جامعة جالاتا - istanbul galata University",
+      "cover": "../images/Galata.jpg",
+      "logo": "../images/Galata-1.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "gedik",
+      "name": "جامعة جيديك - istanbul gedik University",
+      "cover": "../images/Gedik-1.jpg",
+      "logo": "../images/Gedik.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "gelisim",
+      "name": "جامعة جليشم - istanbul gelisim University",
+      "cover": "../images/Gelisim-1.jpg",
+      "logo": "../images/Gelisim.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "kadir",
+      "name": "جامعة قادر هاس - Kadir Has University",
+      "cover": "../images/Kadir-Has-University-1.jpg",
+      "logo": "../images/Kadir-Has-University.jpg",
+      "address": "إسطنبول, تركيا"
+    },
+    {
+      
+      "id": "lokmn",
+      "name": "جامعة لقمان - Lokman Hekim University",
+      "cover": "../images/Lokman-Hekim-1.jpg",
+      "logo": "../images/Lokman-Hekim.jpg",
+      "address": "انقره, تركيا"
+    },
+    {
+      
+      "id": "ostim",
+      "name": "جامعة اوستيم - Ostim University",
+      "cover": "../images/OSTIM-Technical-2.jpg",
+      "logo": "../images/OSTIM-Technical.jpg",
+      "address": "انقره, تركيا"
+    },
+    {
+      
+      "id": "uskudar",
+      "name": "جامعة اسكوادر - Uskudar University",
+      "cover": "../images/Uskudar-University.jpg",
+      "logo": "../images/Uskudar-University-1.jpg",
+      "address": "إسطنبول, تركيا"
+    }
+  ]
+}

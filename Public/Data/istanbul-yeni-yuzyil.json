@@ -1,0 +1,185 @@
+
+{
+    "contact_info": {
+      "id": "istanbul-yeni-yuzyil",
+      "name": "جامعة إسطنبول يني يوزيل - Istanbul Yeni Yuzyil University",
+      "website": "https://www.yeniyuzyil.edu.tr",
+      "cover": "../images/Istanbul-Yeni-Yuzyil 1.jpg",
+      "logo": "../images/Istanbul-Yeni-Yuzyil.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": "https://www.youtube.com/embed/MyJnpiyO6Vs"
+    },
+    "title": "جامعة إسطنبول يني يوزيل Istanbul Yeni Yuzyil University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة إسطنبول يني يوزيل (Istanbul Yeni Yuzyil University) هي واحدة من الجامعات التركية الخاصة التي تأسست عام 2009. تهدف الجامعة إلى تقديم تعليم عالي الجودة مع التركيز على الابتكار والبحث العلمي. بفضل بنيتها التحتية الحديثة وبرامجها المتنوعة، أصبحت وجهة مفضلة للطلاب المحليين والدوليين.",
+    "sections": [
+      {
+        "heading": "موقع جامعة إسطنبول يني يوزيل",
+        "content": [
+          "تقع الجامعة في منطقة زيتينبورنو (Zeytinburnu) في الجانب الأوروبي من إسطنبول، مما يجعلها قريبة من مركز المدينة والمعالم الرئيسية.",
+          "يوفر موقعها سهولة الوصول إلى وسائل النقل العامة، بما في ذلك المترو والحافلات."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة إسطنبول يني يوزيل",
+        "faculties": [
+          {
+            "name": "كلية الطب البشري",
+            "description": "توفر تعليمًا طبيًا متميزًا مع تدريب عملي في مستشفيات متقدمة."
+          },
+          {
+            "name": "كلية طب الأسنان",
+            "description": "تركز على التعليم العملي باستخدام أحدث التقنيات في مجال طب الأسنان."
+          },
+          {
+            "name": "كلية الصيدلة",
+            "description": "توفر برامج تعليمية شاملة تجمع بين المعرفة النظرية والتدريب العملي."
+          },
+          {
+            "name": "كلية الهندسة",
+            "description": "تشمل تخصصات مثل هندسة الكمبيوتر، والهندسة الصناعية، وهندسة البرمجيات."
+          },
+          {
+            "name": "كلية العلوم الصحية",
+            "description": "تقدم برامج في التمريض، التغذية، والعلاج الطبيعي والتأهيل."
+          },
+          {
+            "name": "كلية الفنون والتصميم",
+            "description": "تشمل تخصصات في التصميم الجرافيكي، التصميم الداخلي، والفنون الجميلة."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة إسطنبول يني يوزيل",
+        "content": "تعتمد الجامعة اللغة التركية كلغة أساسية لمعظم برامجها، مع وجود برامج مختارة تُدرس باللغة الإنجليزية."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة إسطنبول يني يوزيل",
+        "features": [
+          {
+            "title": "موقع استراتيجي",
+            "description": "تقع الجامعة في منطقة مركزية توفر بيئة تعليمية مريحة وسهولة الوصول إلى مرافق المدينة."
+          },
+          {
+            "title": "برامج أكاديمية متنوعة",
+            "description": "تقدم الجامعة مجموعة واسعة من التخصصات التي تلبي اهتمامات واحتياجات الطلاب."
+          },
+          {
+            "title": "بنية تحتية حديثة",
+            "description": "تتميز الجامعة بمختبرات متطورة، مكتبات حديثة، ومرافق بحثية متقدمة."
+          },
+          {
+            "title": "فرص تدريب ميداني",
+            "description": "توفر الجامعة شراكات مع مؤسسات طبية وصناعية لتأمين التدريب العملي للطلاب."
+          },
+          {
+            "title": "مجتمع طلابي متنوع",
+            "description": "تستقطب الجامعة طلابًا من مختلف الجنسيات، مما يخلق بيئة تعليمية متعددة الثقافات."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة إسطنبول يني يوزيل",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر التخصص الذي ترغب في دراسته.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات)."
+        ],
+        "website": "https://www.yeniyuzyil.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة إسطنبول يني يوزيل",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة إسطنبول يني يوزيل برامج باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة بعض البرامج باللغة الإنجليزية إلى جانب البرامج التي تُدرس باللغة التركية."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة إسطنبول يني يوزيل؟",
+            "answer": "تستغرق برامج البكالوريوس عادةً 4 سنوات، بينما تستغرق برامج الطب البشري 6 سنوات وبرامج طب الأسنان 5 سنوات."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة منحًا دراسية متنوعة بناءً على الأداء الأكاديمي والاحتياجات المادية."
+          },
+          {
+            "question": "هل يمكنني التقديم للجامعة عبر الإنترنت؟",
+            "answer": "نعم، يمكنك التقديم من خلال الموقع الرسمي للجامعة وتقديم الوثائق المطلوبة."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة إسطنبول يني يوزيل (Istanbul Yeni Yuzyil University) تعد واحدة من الجامعات التركية التي توازن بين التعليم الأكاديمي المتقدم والبنية التحتية الحديثة. إذا كنت تبحث عن تجربة تعليمية متكاملة في إسطنبول، فإن جامعة إسطنبول يني يوزيل قد تكون الخيار المثالي لك. ابدأ الآن رحلتك الدراسية من خلال التقديم عبر موقعها الرسمي!",
+    "prices": {
+      "priceBachelor":[
+        {
+          "specialization": "Nutrition And Dietetics -التغذية والحمية",
+          "language": "English",
+          "original_fee": 4600,
+          "discounted_fee_1": null,
+          "discounted_fee_2": 4300
+        },
+        {
+          "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+          "language": "English",
+          "original_fee":4600,
+          "discounted_fee_1": null,
+          "discounted_fee_2": 4300
+        }
+      ],
+        "priceMaster": [
+          {
+            "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": null
+          },
+          {
+            "specialization": "Dental Prosthesis Technology - تقنية التعويضات السنية",
+            "language": "English",
+            "original_fee": 30000,
+            "discounted_fee_1": 30000,
+            "discounted_fee_2": null
+          },
+          {
+            "specialization": "Dental Prosthesis Technology - تقنية التعويضات السنية",
+            "language": "English",
+            "original_fee": 15000,
+            "discounted_fee_1": 15000,
+            "discounted_fee_2": 15000
+          },
+          {
+            "specialization": "Orthodontics - تقويم الأسنان",
+            "language": "English",
+            "original_fee": 45000,
+            "discounted_fee_1": 15000,
+            "discounted_fee_2": null
+          },
+          {
+            "specialization": "Orthodontics - تقويم الأسنان",
+            "language": "English",
+            "original_fee": 15000,
+            "discounted_fee_1": 15000,
+            "discounted_fee_2": 15000
+          },
+          {
+            "specialization": "Anglo American Literature And Creative Writing - الأدب الأمريكي و الكتابة الإبداعية",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": null
+          }
+        ],
+        "pricePhD":[
+          {
+            "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها ",
+            "language": "English",
+            "original_fee": 9500,
+            "discounted_fee_1":9500,
+            "discounted_fee_2": null
+          }
+        ]
+      }
+      
+    }
+  

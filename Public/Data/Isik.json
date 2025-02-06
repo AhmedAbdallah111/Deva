@@ -1,0 +1,308 @@
+{
+    "contact_info": {
+      "id": "isik",
+      "name": "جامعة إيشيك - Işık University",
+      "website": "https://www.isikun.edu.tr",
+      "cover": "../images/Isik-University.jpg",
+      "logo": "../images/Isik-University-1.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": "https://www.youtube.com/embed/Wq1kGjR3CvI"
+    },
+    "title": "جامعة إيشيك Işık University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة إيشيك (Işık University) هي جامعة خاصة تأسست عام 1996 في مدينة إسطنبول. تُعد واحدة من الجامعات الرائدة التي تقدم تعليمًا عالي الجودة في بيئة تعليمية متطورة وداعمة للطلاب المحليين والدوليين.",
+    "sections": [
+      {
+        "heading": "موقع جامعة إيشيك",
+        "content": [
+          "تقع الجامعة في منطقة شيلا (Şile) على الجانب الآسيوي من إسطنبول، وتتميز بموقعها وسط الطبيعة الجميلة والهدوء.",
+          "توفر الجامعة بيئة تعليمية مثالية بعيدًا عن ضوضاء المدينة، مما يجعلها خيارًا جذابًا للطلاب الباحثين عن الراحة والتركيز."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة إيشيك",
+        "faculties": [
+          {
+            "name": "كلية الهندسة",
+            "description": "تضم تخصصات مثل هندسة الكمبيوتر، الهندسة الكهربائية والإلكترونية، وهندسة البرمجيات."
+          },
+          {
+            "name": "كلية العلوم والآداب",
+            "description": "تشمل برامج مثل علم النفس، الرياضيات، والفيزياء."
+          },
+          {
+            "name": "كلية الاقتصاد والعلوم الإدارية والاجتماعية",
+            "description": "تقدم تخصصات مثل إدارة الأعمال، الاقتصاد، والعلاقات الدولية."
+          },
+          {
+            "name": "كلية الفنون الجميلة",
+            "description": "تقدم برامج في التصميم الجرافيكي، التصميم الداخلي، والفنون البصرية."
+          },
+          {
+            "name": "كلية العمارة",
+            "description": "تشمل تخصصات متقدمة في العمارة والتصميم الحضري."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة إيشيك",
+        "content": "تُقدم الجامعة برامجها باللغتين الإنجليزية والتركية، مما يمنح الطلاب مرونة كبيرة في اختيار اللغة التي تناسبهم."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة إيشيك",
+        "features": [
+          {
+            "title": "موقع طبيعي مميز",
+            "description": "تتمتع الجامعة بموقع جميل وسط الطبيعة الهادئة، مما يخلق بيئة تعليمية محفزة ومريحة."
+          },
+          {
+            "title": "برامج أكاديمية متطورة",
+            "description": "تقدم الجامعة برامج دراسية شاملة ومبتكرة تلبي احتياجات سوق العمل الحديث."
+          },
+          {
+            "title": "مرافق حديثة",
+            "description": "تتضمن الجامعة مختبرات متقدمة، مكتبات مجهزة، وقاعات دراسية على أعلى مستوى."
+          },
+          {
+            "title": "فرص تدريب عملي",
+            "description": "توفر الجامعة شراكات مع شركات محلية ودولية لإتاحة فرص تدريب فريدة للطلاب."
+          },
+          {
+            "title": "مجتمع طلابي دولي",
+            "description": "تستقبل الجامعة طلابًا من جميع أنحاء العالم، مما يعزز التفاعل الثقافي والتبادل المعرفي."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة إيشيك",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر التخصص المناسب لك.",
+          "املأ استمارة التقديم عبر الإنترنت وقم بإرفاق المستندات المطلوبة مثل جواز السفر والشهادات الأكاديمية."
+        ],
+        "website": "https://www.isikun.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة إيشيك",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة إيشيك برامج باللغة الإنجليزية؟",
+            "answer": "نعم، توفر الجامعة العديد من البرامج الأكاديمية باللغة الإنجليزية."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة إيشيك؟",
+            "answer": "برامج البكالوريوس تستغرق عادةً 4 سنوات، وبرامج الدراسات العليا تختلف حسب التخصص."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة منحًا دراسية بناءً على الأداء الأكاديمي والاحتياجات المالية."
+          },
+          {
+            "question": "هل يوجد سكن طلابي في الجامعة؟",
+            "answer": "نعم، توفر الجامعة خيارات سكن مريحة وآمنة داخل الحرم الجامعي."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة إيشيك (Işık University) تُعد من أفضل الجامعات الخاصة في تركيا بفضل بيئتها التعليمية المثالية وبرامجها الأكاديمية المتميزة. إذا كنت تبحث عن تعليم عالي الجودة وتجربة جامعية فريدة، فإن جامعة إيشيك تستحق أن تكون خيارك الأول!",
+    "prices": {
+      "priceBachelor":[
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 9600,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الالكترون",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Interior Architecture And Environmental Design - العمارة الداخلية والتصميم البيئي",
+          "language": "English",
+          "original_fee": 7200,
+          "discounted_fee_1": 3600,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Civil Engineering - الهندسة المدنية",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Software Engineering - هندسة البرمجيات",
+          "language": "English",
+          "original_fee": 9600,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Architecture - العمارة",
+          "language": "English",
+          "original_fee": 7200,
+          "discounted_fee_1": 3600,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Business Administration - إدارة الأعمال",
+          "language": "English",
+          "original_fee": 7200,
+          "discounted_fee_1": 3600,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Management Information Systems - نظم المعلومات الادارية",
+          "language": "English",
+          "original_fee": 7200,
+          "discounted_fee_1": 3600,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "International Relations - العلاقات الدولية",
+          "language": "English",
+          "original_fee": 7200,
+          "discounted_fee_1": 3600,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Psychology - علم النفس",
+          "language": "English",
+          "original_fee": 7200,
+          "discounted_fee_1": 3600,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Mechatronics Engineering - هندسة الميكاترونكس",
+          "language": "English",
+          "original_fee": 9600,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Economics - الاقتصاد",
+          "language": "English",
+          "original_fee": 7200,
+          "discounted_fee_1": 3600,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+          "language": "English",
+          "original_fee": 7200,
+          "discounted_fee_1": 3600,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Biomedical Engineering - الهندسة الطبية الحيوية",
+          "language": "English",
+          "original_fee": 9600,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": null
+        }
+      ],
+      "priceMaster":[
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 10200,
+          "discounted_fee_1": 5100,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الالكترون",
+          "language": "English",
+          "original_fee": 10200,
+          "discounted_fee_1": 5100,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Civil Engineering - الهندسة المدنية",
+          "language": "English",
+          "original_fee": 10200,
+          "discounted_fee_1": 5100,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 10200,
+          "discounted_fee_1": 5100,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "International Relations - العلاقات الدولية",
+          "language": "English",
+          "original_fee": 10200,
+          "discounted_fee_1": 5100,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Applied Economics - الاقتصاد التطبيقي",
+          "language": "English",
+          "original_fee": 10200,
+          "discounted_fee_1": 5100,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Information Technology - تكنلوجيا المعلومات",
+          "language": "English",
+          "original_fee": 10200,
+          "discounted_fee_1": 5100,
+          "discounted_fee_2": null
+        }
+      ],
+      "pricePhD":[
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 22800,
+          "discounted_fee_1": 11400,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الالكترون",
+          "language": "English",
+          "original_fee": 22800,
+          "discounted_fee_1": 11400,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Mathematics - الرياضيات",
+          "language": "English",
+          "original_fee": 22800,
+          "discounted_fee_1": 11400,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Contemporary Business - دراسات الأعمال المعاصرة",
+          "language": "English",
+          "original_fee": 22800,
+          "discounted_fee_1": 11400,
+          "discounted_fee_2": null
+        }
+      ]
+      
+      
+      
+    }
+  }
+  

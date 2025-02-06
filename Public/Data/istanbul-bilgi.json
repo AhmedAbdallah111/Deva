@@ -1,0 +1,414 @@
+{
+    "contact_info": {
+      "id": "istanbul-bilgi",
+      "name": "جامعة إسطنبول بيلجي - Istanbul Bilgi University",
+      "website": "https://www.bilgi.edu.tr",
+      "cover": "../images/Istanbul-Bilgi-University-1.jpg",
+      "logo": "../images/Istanbul-Bilgi-University.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": "https://www.youtube.com/embed/EJNTkdq4Z2M"
+    },
+    "title": "جامعة إسطنبول بيلجي Istanbul Bilgi University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة إسطنبول بيلجي (Istanbul Bilgi University) هي إحدى الجامعات التركية الخاصة المرموقة، تأسست عام 1996. تُعرف الجامعة بتقديمها برامج أكاديمية متميزة وبيئة تعليمية مبتكرة تركز على التفكير النقدي والإبداعي، مما يجعلها واحدة من الوجهات المثالية للطلاب الدوليين والمحليين على حدٍ سواء.",
+    "sections": [
+      {
+        "heading": "موقع جامعة إسطنبول بيلجي",
+        "content": [
+          "تقع الجامعة في عدة مواقع مميزة في إسطنبول، أبرزها حرم سانترال إسطنبول (Santral Istanbul) الذي يُعد مركزًا ثقافيًا وتعليميًا متكاملاً.",
+          "يوفر موقع الجامعة سهولة الوصول إلى وسائل النقل المختلفة والمعالم السياحية والثقافية في المدينة."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة إسطنبول بيلجي",
+        "faculties": [
+          {
+            "name": "كلية الهندسة والعلوم الطبيعية",
+            "description": "تقدم برامج متنوعة مثل هندسة الكمبيوتر، الهندسة الكهربائية والإلكترونية، وعلوم البيانات."
+          },
+          {
+            "name": "كلية إدارة الأعمال",
+            "description": "تشمل تخصصات مثل إدارة الأعمال، التمويل، والتسويق مع تركيز على التطبيقات العملية."
+          },
+          {
+            "name": "كلية الفنون والتصميم",
+            "description": "توفر برامج في التصميم الجرافيكي، تصميم المنتجات، والفنون البصرية."
+          },
+          {
+            "name": "كلية الحقوق",
+            "description": "تقدم تعليمًا عالي الجودة في القانون التركي والدولي مع فرص تدريب متميزة."
+          },
+          {
+            "name": "كلية العلوم الاجتماعية والإنسانية",
+            "description": "تشمل تخصصات مثل علم النفس، علم الاجتماع، والعلاقات الدولية."
+          },
+          {
+            "name": "كلية الاتصالات",
+            "description": "تركز على تخصصات مثل الإعلام الرقمي، السينما والتلفزيون، والصحافة."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة إسطنبول بيلجي",
+        "content": "تُدرس معظم برامج الجامعة باللغة الإنجليزية، مما يجعلها خيارًا مثاليًا للطلاب الدوليين، بالإضافة إلى وجود برامج تُدرس باللغة التركية."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة إسطنبول بيلجي",
+        "features": [
+          {
+            "title": "موقع حيوي",
+            "description": "تقع الجامعة في مناطق مركزية بإسطنبول، مما يوفر بيئة دراسية وثقافية غنية."
+          },
+          {
+            "title": "شراكات أكاديمية عالمية",
+            "description": "تتعاون الجامعة مع أكثر من 200 مؤسسة تعليمية حول العالم لتوفير فرص تبادل أكاديمي."
+          },
+          {
+            "title": "مرافق تعليمية متطورة",
+            "description": "تشمل مكتبات غنية، مختبرات حديثة، واستوديوهات إبداعية مجهزة بأحدث التقنيات."
+          },
+          {
+            "title": "فرص تدريب مهني",
+            "description": "ترتبط الجامعة بشبكة قوية من الشركات والمؤسسات لتوفير التدريب العملي للطلاب."
+          },
+          {
+            "title": "مجتمع طلابي متنوع",
+            "description": "تضم الجامعة طلابًا من أكثر من 80 دولة، مما يخلق بيئة تعليمية متعددة الثقافات."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة إسطنبول بيلجي",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر التخصص الذي ترغب في دراسته.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات)."
+        ],
+        "website": "https://www.bilgi.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة إسطنبول بيلجي",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة إسطنبول بيلجي برامج باللغة الإنجليزية؟",
+            "answer": "نعم، معظم برامج الجامعة تُدرس باللغة الإنجليزية، مما يجعلها خيارًا مفضلًا للطلاب الدوليين."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة إسطنبول بيلجي؟",
+            "answer": "تستغرق برامج البكالوريوس عادةً 4 سنوات، بينما تختلف مدة برامج الدراسات العليا حسب التخصص."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة العديد من المنح الدراسية بناءً على الأداء الأكاديمي وحالات الطلاب المادية."
+          },
+          {
+            "question": "هل يمكنني التقديم للجامعة عبر الإنترنت؟",
+            "answer": "نعم، يمكنك التقديم من خلال الموقع الرسمي للجامعة وتقديم الوثائق المطلوبة."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة إسطنبول بيلجي (Istanbul Bilgi University) تُعد واحدة من أفضل الجامعات التركية التي تجمع بين التعليم الأكاديمي المتميز وبيئة تعليمية متطورة. بفضل موقعها وبرامجها المتنوعة، تعتبر خيارًا رائعًا للطلاب الباحثين عن تجربة تعليمية استثنائية في إسطنبول. لا تتردد في التقديم الآن إلى جامعة إسطنبول بيلجي!",
+    "prices": {
+      "priceBachelor":[
+          {
+            "specialization": "Computer Engineering - هندسة الكمبيوتر",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الالكترون",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Civil Engineering - الهندسة المدنية",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Industrial Engineering - الهندسة الصناعية",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Architecture - العمارة",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Business Administration - إدارة الأعمال",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Management Information Systems - نظم المعلومات الادارية",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "International Relations - العلاقات الدولية",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Psychology - علم النفس",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Sociology - علم الاجتماع",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "Radio And Television Programming - راديو وتلفزيون وسينما",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "Fashion and Textile Design - تصميم الأزياء و النسيج",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 6600,
+            "discounted_fee_2": null
+          },
+          {
+            "specialization": "Gastronomy And Culinary Arts - فن الطهو وفنون الطهي",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Public Relations And Advertising - العلاقات العامة والإعلان",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "Energy Systems Engineering - هندسة نظم الطاقة",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Mechatronics Engineering - هندسة الميكاترونكس",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Economics - الاقتصاد",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6270
+          },
+          {
+            "specialization": "Tourism Management - إدارة السياحة",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 4950
+          },
+          {
+            "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "Mathematics - الرياضيات",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Industrial Design - التصميم الصناعي",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6270
+          },
+          {
+            "specialization": "Economics And Finance - الاقتصاد والمالية",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 4950
+          },
+          {
+            "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6270
+          },
+          {
+            "specialization": "Logistics Management - إدارة الخدمات اللوجستية",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "International Finance - التمويل الدولي",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6270
+          },
+          {
+            "specialization": "Digital Game Design - تصميم الألعاب الرقمية",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6270
+          },
+          {
+            "specialization": "Advertising - الدعاية و الإعلان",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "Interior Architecture - العمارة الداخلية",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 6600,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Visual Communication Design - تصميم الاتصالات المرئية",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "New Media And Communication - وسائل الإعلام والاتصالات الجديدة",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Art And Culture Management - إدارة الفن والثقافة",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "Genetics And Bioengineering - علم الوراثة والهندسة الحيوية",
+            "language": "English",
+            "original_fee": 9720,
+            "discounted_fee_1": 9720,
+            "discounted_fee_2": 6600
+          },
+          {
+            "specialization": "Marketing - التسويق",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6270
+          },
+          {
+            "specialization": "Communication Design And Management - تصميم وإدارة الاتصالات",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 6270
+          },
+          {
+            "specialization": "Television Journalism And Programming - البرمجة والصحافة التلفزيونية",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "Comparative Literature - الأدب المقارن",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "History - التاريخ",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 5544
+          },
+          {
+            "specialization": "Sports Management - الإدارة الرياضية",
+            "language": "English",
+            "original_fee": 8100,
+            "discounted_fee_1": 8100,
+            "discounted_fee_2": 2970
+          }
+        ],
+        "priceMaster":[
+          {
+            "specialization": "International Relations - العلاقات الدولية ",
+            "language": "English",
+            "original_fee": 2400,
+            "discounted_fee_1": 40000,
+            "discounted_fee_2":null
+          },
+          {
+            "specialization": "Marketing - التسويق",
+            "language": "English",
+            "original_fee": 5400,
+            "discounted_fee_1": 55000,
+            "discounted_fee_2": null
+          }
+        ]
+      }
+      
+  
+    }
+  

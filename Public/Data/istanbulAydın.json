@@ -1,0 +1,401 @@
+
+{
+  "contact_info": {
+    "id":"istanbulAydın",
+    "name":"جامعة إسطنبول آيدن Istanbul Aydın University",
+    "website":"https://www.aydin.edu.tr",
+    "cover":"../images/Istanbul-Aydin.jpg",
+    "logo":"../images/University-logo.jpg",
+    "address": "إسطنبول, تركيا",
+    "video":"https://www.youtube.com/embed/fEyKBW1v7Fw"
+  },
+    "title": "جامعة إسطنبول آيدن Istanbul Aydın University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة إسطنبول آيدن (Istanbul Aydın University) هي واحدة من الجامعات التركية الخاصة الرائدة، تأسست عام 2003 في مدينة إسطنبول. تتميز الجامعة ببرامجها الأكاديمية المتميزة واعتمادها الدولي، مما يجعلها خيارًا شائعًا بين الطلاب المحليين والدوليين.",
+    "sections": [
+      {
+        "heading": "موقع جامعة إسطنبول آيدن",
+        "content": [
+          "تقع الجامعة في الجانب الأوروبي من مدينة إسطنبول في منطقة فلوريا (Florya)، التي تعد واحدة من أكثر المناطق تطورًا في إسطنبول.",
+          "توفر الجامعة سهولة الوصول إلى وسائل النقل العام والمرافق الحيوية، مما يجعلها مريحة للطلاب."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة إسطنبول آيدن",
+        "faculties": [
+          {
+            "name": "كلية الطب البشري",
+            "description": "تقدم برامج طبية متقدمة مع مرافق تعليمية حديثة وتدريب عملي في مستشفيات الجامعة."
+          },
+          {
+            "name": "كلية طب الأسنان",
+            "description": "تشمل برامج شاملة مع تركيز كبير على التدريب العملي والممارسات السريرية."
+          },
+          {
+            "name": "كلية الهندسة",
+            "description": "تضم تخصصات مثل هندسة البرمجيات، الهندسة الكهربائية والإلكترونية، والهندسة الميكانيكية."
+          },
+          {
+            "name": "كلية إدارة الأعمال",
+            "description": "تركز على مجالات مثل الاقتصاد، التسويق، وإدارة الأعمال الدولية."
+          },
+          {
+            "name": "كلية الحقوق",
+            "description": "توفر برامج متخصصة في القانون التركي والدولي مع فرص تدريب عملي."
+          },
+          {
+            "name": "كلية الفنون والتصميم",
+            "description": "تقدم برامج مثل التصميم الداخلي، التصميم الجرافيكي، وتصميم الأزياء."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة إسطنبول آيدن",
+        "content": "تقدم الجامعة برامجها الدراسية باللغتين الإنجليزية والتركية، مما يوفر مرونة للطلاب المحليين والدوليين."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة إسطنبول آيدن",
+        "features": [
+          {
+            "title": "موقع متميز",
+            "description": "تقع في فلوريا، مما يجعلها قريبة من المواصلات العامة والمرافق الحيوية."
+          },
+          {
+            "title": "برامج أكاديمية معتمدة",
+            "description": "تحظى برامج الجامعة باعتمادات دولية، مما يضمن اعترافًا عالميًا بشهاداتها."
+          },
+          {
+            "title": "مرافق حديثة",
+            "description": "تشمل مختبرات متطورة، مكتبات واسعة، ومراكز رياضية مجهزة بالكامل."
+          },
+          {
+            "title": "مجتمع طلابي دولي",
+            "description": "تستقطب الجامعة طلابًا من أكثر من 100 دولة حول العالم."
+          },
+          {
+            "title": "فرص تدريب عملي",
+            "description": "تقدم الجامعة شراكات مع شركات ومؤسسات كبرى لتوفير خبرة عملية للطلاب."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة إسطنبول آيدن",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر البرنامج الأكاديمي المناسب لك.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات الأكاديمية)."
+        ],
+        "website": "https://www.aydin.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة إسطنبول آيدن",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة إسطنبول آيدن برامج دراسية باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة العديد من البرامج باللغة الإنجليزية خاصة في الكليات العلمية والإدارية."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة إسطنبول آيدن؟",
+            "answer": "برامج البكالوريوس تستغرق عادةً 4 سنوات، بينما برامج الطب البشري تستغرق 6 سنوات وبرامج طب الأسنان 5 سنوات."
+          },
+          {
+            "question": "هل تقدم الجامعة منحًا دراسية؟",
+            "answer": "نعم، توفر الجامعة منحًا دراسية جزئية بناءً على التفوق الأكاديمي أو الظروف المادية."
+          },
+          {
+            "question": "هل توفر الجامعة سكنًا طلابيًا؟",
+            "answer": "نعم، توفر الجامعة خيارات سكنية مريحة بالقرب من الحرم الجامعي."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة إسطنبول آيدن (Istanbul Aydın University) هي واحدة من أفضل الجامعات التركية التي تجمع بين التعليم عالي الجودة والمرافق الحديثة. بفضل موقعها الاستراتيجي وبرامجها الأكاديمية المعتمدة، تُعد خيارًا مثاليًا للطلاب المحليين والدوليين. ابدأ رحلتك الدراسية اليوم بالتقديم إلى جامعة إسطنبول آيدن وانضم إلى مجتمع أكاديمي متميز!",
+    "prices": {
+        "priceBachelor": [
+          {
+            "specialization": "Medicine-الطب البشري",
+            "language": "English",
+            "original_fee": 22000,
+            "discounted_fee_1": 22000,
+            "discounted_fee_2": 22000
+          },
+          {
+            "specialization": "Dentistry-طب الأسنان",
+            "language": "English",
+            "original_fee": 20000,
+            "discounted_fee_1": 20000,
+            "discounted_fee_2": 20000
+          },
+          {
+            "specialization": "Computer Engineering - هندسة الكمبيوتر",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Civil Engineering - الهندسة المدنية",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Software Engineering - هندسة البرمجيات",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Industrial Engineering - الهندسة الصناعية",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Architecture - العمارة",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Business Administration -إدارة الأعمال",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Management Information Systems - نظم المعلومات الادارية",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Pilotage -طيران احترافي",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Aviation Management - إدارة الطيران",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "English Translation And Interpreting - الترجمة الإنجليزية والترجمة الفورية",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Economics And Finance -الاقتصاد والمالية",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": null
+          },
+          {
+            "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "English Language Teaching - تدريس اللغة الإنجليزية",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 5000,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Aerospace And Aviation Engineering-هندسة الطيران والفضاء",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          },
+          {
+            "specialization": "Software Development-تطوير البرمجيات",
+            "language": "English",
+            "original_fee": 6000,
+            "discounted_fee_1": 6000,
+            "discounted_fee_2": 5400
+          }
+        ],
+        "priceMaster":[
+            {
+              "specialization": "Computer Engineering - هندسة الكمبيوتر",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Industrial Engineering - الهندسة الصناعية",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Business Administration -إدارة الأعمال",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Psychology - علم النفس",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Aerospace Engineering - هندسة الطيران",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "English Language Teaching - تدريس اللغة الإنجليزية",
+              "language": "English",
+              "original_fee": 8000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Entrepreneurship And Innovation Management -ريادة الأعمال و إدارة الابتكار",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Accounting And Auditing -المحاسبة و التدقيق",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Energy Technologies -تكنلوجيا الطاقة",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            },
+            {
+              "specialization": "Artificial Intelligence And Data Science-الذكاء الاصطناعي و علم البيانات",
+              "language": "English",
+              "original_fee": 9000,
+              "discounted_fee_1": 9000,
+              "discounted_fee_2": 8100
+            }
+          ],
+          "pricePhD":[
+            {
+            "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+            "language": "English",
+            "original_fee": 12000,
+            "discounted_fee_1": 12000,
+            "discounted_fee_2": 12000
+          },
+          {
+            "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+            "language": "English",
+            "original_fee": 12000,
+            "discounted_fee_1": 12000,
+            "discounted_fee_2": 12000
+          },
+          {
+            "specialization": "Business Administration -إدارة الأعمال",
+            "language": "English",
+            "original_fee": 12000,
+            "discounted_fee_1": 12000,
+            "discounted_fee_2": 12000
+          },
+          {
+            "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+            "language": "English",
+            "original_fee": 12000,
+            "discounted_fee_1": 12000,
+            "discounted_fee_2": 12000
+          },
+          {
+            "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها  ",
+            "language": "English",
+            "original_fee": 12000,
+            "discounted_fee_1": 12000,
+            "discounted_fee_2": 12000
+          }
+        ]
+        }
+        
+      }

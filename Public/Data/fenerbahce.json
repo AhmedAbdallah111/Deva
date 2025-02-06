@@ -1,0 +1,220 @@
+{
+    "contact_info": {
+      "id": "fenerbahce",
+      "name": "جامعة فنربهتشه - Fenerbahce University",
+      "website": "https://www.fbu.edu.tr",
+      "cover": "../images/Fenerbahce-University-1.jpg",
+      "logo": "../images/Fenerbahce-University.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": "https://www.youtube.com/embed/9N_IS9-LXHI"
+    },
+    "title": "جامعة فنربهتشه Fenerbahce University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة فنربهتشه (Fenerbahce University) هي جامعة تركية خاصة حديثة التأسيس، تقع في مدينة إسطنبول. تُقدم الجامعة برامج تعليمية عالية الجودة وتتميز بتوفير بيئة أكاديمية حديثة ومبتكرة، ما يجعلها خيارًا مثاليًا للطلاب الباحثين عن تعليم عصري ومتميز.",
+    "sections": [
+      {
+        "heading": "موقع جامعة فنربهتشه",
+        "content": [
+          "تقع الجامعة في الجانب الآسيوي من مدينة إسطنبول، وتتميز بموقع استراتيجي قريب من وسائل النقل العام والمرافق الحيوية.",
+          "يوفر موقع الجامعة بيئة تعليمية مناسبة للطلاب بفضل البنية التحتية المتطورة في المنطقة."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة فنربهتشه",
+        "faculties": [
+          {
+            "name": "كلية الهندسة والعلوم الطبيعية",
+            "description": "تشمل تخصصات مثل هندسة الحاسوب، هندسة البرمجيات، والذكاء الاصطناعي."
+          },
+          {
+            "name": "كلية العلوم الصحية",
+            "description": "تضم برامج مثل التمريض، والعلاج الطبيعي، وإدارة الصحة."
+          },
+          {
+            "name": "كلية الاقتصاد والعلوم الإدارية",
+            "description": "تشمل تخصصات مثل إدارة الأعمال، الاقتصاد، وإدارة الموارد البشرية."
+          },
+          {
+            "name": "كلية الإعلام والفنون",
+            "description": "تقدم برامج مثل الإعلام الرقمي، التصميم الجرافيكي، وتصميم الوسائط المتعددة."
+          },
+          {
+            "name": "كلية اللغات والترجمة",
+            "description": "تركز على تخصصات مثل الترجمة واللغات الأجنبية لتمكين الطلاب من العمل في بيئات متعددة الثقافات."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة فنربهتشه",
+        "content": "تُقدم الجامعة برامجها باللغتين الإنجليزية والتركية، مما يتيح للطلاب المحليين والدوليين اختيار اللغة الأنسب لهم."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة فنربهتشه",
+        "features": [
+          {
+            "title": "موقع استراتيجي",
+            "description": "تقع في الجانب الآسيوي من إسطنبول، مما يسهل الوصول إليها من مختلف أنحاء المدينة."
+          },
+          {
+            "title": "برامج تعليمية متطورة",
+            "description": "توفر الجامعة مناهج متكاملة تتماشى مع متطلبات سوق العمل العالمي."
+          },
+          {
+            "title": "مرافق حديثة",
+            "description": "تشمل مختبرات متقدمة، مكتبات رقمية، واستوديوهات إعلامية مجهزة بأحدث التقنيات."
+          },
+          {
+            "title": "فرص تدريب وشراكات دولية",
+            "description": "توفر الجامعة فرص تدريب بالتعاون مع شركات عالمية ومؤسسات رائدة."
+          },
+          {
+            "title": "بيئة تعليمية متنوعة",
+            "description": "تستقطب الجامعة طلابًا من مختلف الجنسيات، مما يخلق مجتمعًا تعليميًا غنيًا بالتنوع الثقافي."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة فنربهتشه",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر التخصص الذي يناسبك.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة مثل جواز السفر والشهادات الأكاديمية."
+        ],
+        "website": "https://www.fbu.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة فنربهتشه",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة فنربهتشه برامج باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة العديد من البرامج باللغة الإنجليزية إلى جانب البرامج التي تُدرس باللغة التركية."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة فنربهتشه؟",
+            "answer": "برامج البكالوريوس تستغرق عادةً 4 سنوات، وبرامج الدراسات العليا تختلف حسب التخصص."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة منحًا دراسية تصل إلى 50% للطلاب المتفوقين أكاديميًا أو حسب الاحتياجات المالية."
+          },
+          {
+            "question": "هل يوجد سكن طلابي في الجامعة؟",
+            "answer": "نعم، توفر الجامعة خيارات سكن مريحة للطلاب بالقرب من الحرم الجامعي."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة فنربهتشه (Fenerbahce University) تُعد خيارًا مثاليًا للطلاب الذين يبحثون عن تعليم عصري في بيئة أكاديمية مبتكرة. بفضل موقعها المميز وبرامجها التعليمية المتقدمة، تُعتبر واحدة من الجامعات الواعدة في تركيا. ابدأ رحلتك الدراسية بالتقديم إلى جامعة فنربهتشه اليوم!",
+    "prices": {
+      "priceBachelor":[
+        {
+          "specialization": "Pharmacy - الصيدلة",
+          "language": "English",
+          "original_fee": 15000,
+          "discounted_fee_1": 7500,
+          "discounted_fee_2": 7125
+        },
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الالكترون",
+          "language": "English",
+          "original_fee": null,
+          "discounted_fee_1": null,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Interior Architecture And Environmental Design - العمارة الداخلية والتصميم البيئي",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Software Engineering - هندسة البرمجيات",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Management Information Systems - نظم المعلومات الادارية",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Psychology - علم النفس",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Physiotherapy And Rehabilitation - العلاج الطبيعي وإعادة التأهيل",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Nursing - تمريض",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "Economics - الاقتصاد",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        },
+        {
+          "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 4000,
+          "discounted_fee_2": 3800
+        }
+      ],
+      "priceMaster":[
+        {
+          "specialization": "Business Administration -إدارة الأعمال ",
+          "language": "English",
+          "original_fee": 6000,
+          "discounted_fee_1": 3000,
+          "discounted_fee_2": 2850
+        },
+        {
+          "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة ",
+          "language": "English",
+          "original_fee": 6000,
+          "discounted_fee_1": 3000,
+          "discounted_fee_2": 2850
+        }
+      ]
+      
+    }
+  }
+  

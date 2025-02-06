@@ -1,0 +1,247 @@
+{
+    "contact_info": {
+      "id": "istanbulAtlas",
+      "name": "جامعة إسطنبول أطلس - Istanbul Atlas University",
+      "website": "https://www.atlas.edu.tr",
+      "cover": "../images/Istanbul-Atlas.jpg",
+      "logo": "../images/Istanbul-Atlas-1.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": "https://www.youtube.com/embed/u5gw1n5at38"
+    },
+    "title": "جامعة إسطنبول أطلس Istanbul Atlas University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة إسطنبول أطلس (Istanbul Atlas University) هي واحدة من الجامعات التركية الحديثة التي تأسست عام 2018. تتميز الجامعة بتقديم تعليم عالي الجودة وبنية تحتية متطورة تضم أحدث التقنيات. بفضل موقعها الاستراتيجي وبرامجها المتنوعة، أصبحت خيارًا شائعًا بين الطلاب المحليين والدوليين.",
+    "sections": [
+      {
+        "heading": "موقع جامعة إسطنبول أطلس",
+        "content": [
+          "تقع الجامعة في منطقة كاغيتهانه (Kağıthane)، وهي منطقة متطورة في الجانب الأوروبي من إسطنبول.",
+          "يوفر موقع الجامعة سهولة الوصول إلى وسائل النقل الرئيسية والمعالم الثقافية في المدينة."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة إسطنبول أطلس",
+        "faculties": [
+          {
+            "name": "كلية الطب البشري",
+            "description": "توفر برامج طبية متقدمة مع مرافق تدريب حديثة ومستشفيات تعليمية."
+          },
+          {
+            "name": "كلية طب الأسنان",
+            "description": "تقدم برامج شاملة تركز على المهارات العملية واستخدام أحدث التقنيات."
+          },
+          {
+            "name": "كلية الهندسة والعلوم الطبيعية",
+            "description": "تشمل تخصصات مثل هندسة الكمبيوتر، الهندسة الصناعية، وهندسة البرمجيات."
+          },
+          {
+            "name": "كلية العلوم الصحية",
+            "description": "تشمل برامج في التمريض، التغذية، والعلاج الطبيعي والتأهيل."
+          },
+          {
+            "name": "كلية الفنون والتصميم",
+            "description": "تقدم تخصصات في التصميم الجرافيكي، التصميم الداخلي، والفنون البصرية."
+          },
+          {
+            "name": "كلية العلوم الاجتماعية",
+            "description": "تشمل تخصصات مثل علم النفس، والإرشاد والتوجيه النفسي، وعلم الاجتماع."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة إسطنبول أطلس",
+        "content": "تعتمد الجامعة اللغة التركية كلغة رئيسية لمعظم برامجها، مع وجود بعض البرامج التي تُدرس باللغة الإنجليزية."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة إسطنبول أطلس",
+        "features": [
+          {
+            "title": "موقع مثالي",
+            "description": "تقع الجامعة في منطقة متطورة بإسطنبول توفر بيئة مريحة للطلاب."
+          },
+          {
+            "title": "برامج أكاديمية متنوعة",
+            "description": "تقدم الجامعة مجموعة واسعة من البرامج الأكاديمية التي تلبي اهتمامات الطلاب."
+          },
+          {
+            "title": "مرافق تعليمية حديثة",
+            "description": "تشمل الجامعة مختبرات متطورة، مكتبات غنية، ومراكز بحثية متقدمة."
+          },
+          {
+            "title": "فرص تدريب ميداني",
+            "description": "توفر الجامعة شراكات مع مؤسسات وشركات رائدة لتأمين التدريب العملي للطلاب."
+          },
+          {
+            "title": "مجتمع طلابي متنوع",
+            "description": "تستقطب الجامعة طلابًا من خلفيات مختلفة، مما يخلق بيئة تعليمية شاملة."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة إسطنبول أطلس",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر التخصص الذي ترغب في دراسته.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات)."
+        ],
+        "website": "https://www.atlas.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة إسطنبول أطلس",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة إسطنبول أطلس برامج باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة بعض البرامج باللغة الإنجليزية، إلى جانب البرامج التي تُدرس باللغة التركية."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة إسطنبول أطلس؟",
+            "answer": "تستغرق برامج البكالوريوس عادةً 4 سنوات، بينما تستغرق برامج الطب البشري 6 سنوات وبرامج طب الأسنان 5 سنوات."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة العديد من المنح الدراسية بناءً على الأداء الأكاديمي وحالات الطلاب المادية."
+          },
+          {
+            "question": "هل يمكنني التقديم للجامعة عبر الإنترنت؟",
+            "answer": "نعم، يمكنك التقديم من خلال الموقع الرسمي للجامعة وتقديم الوثائق المطلوبة."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة إسطنبول أطلس (Istanbul Atlas University) تمثل واحدة من الجامعات الصاعدة التي تجمع بين التعليم الأكاديمي المتميز والمرافق الحديثة. إذا كنت تبحث عن تجربة تعليمية متكاملة في مدينة إسطنبول، فجامعة إسطنبول أطلس قد تكون الخيار المثالي. ابدأ الآن رحلتك الدراسية من خلال التقديم إلى جامعة إسطنبول أطلس!",
+    "prices": {
+        "priceBachelor": [
+          {
+            "specialization": "Medicine-الطب البشري",
+            "language": "English",
+            "original_fee": 23000,
+            "discounted_fee_1": 20700,
+            "discounted_fee_2": 18630
+          },
+          {
+            "specialization": "Dentistry-طب الأسنان",
+            "language": "English",
+            "original_fee": 21250,
+            "discounted_fee_1": 19125,
+            "discounted_fee_2": 17213
+          },
+          {
+            "specialization": "Computer Engineering - هندسة الكمبيوتر",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4050
+          },
+          {
+            "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+            "language": "English",
+            "original_fee": 4750,
+            "discounted_fee_1": 4275,
+            "discounted_fee_2": 3848
+          },
+          {
+            "specialization": "Software Engineering - هندسة البرمجيات",
+            "language": "English",
+            "original_fee": 5250,
+            "discounted_fee_1": 4725,
+            "discounted_fee_2": 4253
+          },
+          {
+            "specialization": "Industrial Engineering - الهندسة الصناعية",
+            "language": "English",
+            "original_fee": 4750,
+            "discounted_fee_1": 4275,
+            "discounted_fee_2": 3848
+          },
+          {
+            "specialization": "Business Administration -إدارة الأعمال",
+            "language": "English",
+            "original_fee": 4900,
+            "discounted_fee_1": 4410,
+            "discounted_fee_2": 3969
+          },
+          {
+            "specialization": "Psychology - علم النفس",
+            "language": "English",
+            "original_fee": 4500,
+            "discounted_fee_1": 4050,
+            "discounted_fee_2": 3645
+          },
+          {
+            "specialization": "Physiotherapy And Rehabilitation - العلاج الطبيعي وإعادة التأهيل",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4050
+          },
+          {
+            "specialization": "Nursing - تمريض",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4050
+          },
+          {
+            "specialization": "Speech And Language Therapy - علاج النطق واللغة",
+            "language": "English",
+            "original_fee": 4500,
+            "discounted_fee_1": 4050,
+            "discounted_fee_2": 3443
+          },
+          {
+            "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+            "language": "English",
+            "original_fee": 4000,
+            "discounted_fee_1": 3600,
+            "discounted_fee_2": 3240
+          },
+          {
+            "specialization": "Molecular Biology And Genetics - علم الأحياء الجزيئي وعلم الوراثة",
+            "language": "English",
+            "original_fee": 4750,
+            "discounted_fee_1": 4275,
+            "discounted_fee_2": 3848
+          },
+          {
+            "specialization": "Biomedical Engineering- الهندسة الطبية الحيوية",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4050
+          }
+        ],
+        "priceMaster":[
+          {
+            "specialization": "Computer Engineering - هندسة الكمبيوتر",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4050
+          },
+          {
+            "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+            "language": "English",
+            "original_fee": 4500,
+            "discounted_fee_1": 4050,
+            "discounted_fee_2": 3645
+          },
+          {
+            "specialization": "Information Technology -تكنلوجيا المعلومات",
+            "language": "English",
+            "original_fee": 5000,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4050
+          }
+        ],
+        "pricePhD":[
+          {
+            "specialization": "Computer Engineering - هندسة الكمبيوتر",
+            "language": "English",
+            "original_fee": 12000,
+            "discounted_fee_1": 1800,
+            "discounted_fee_2": 9720
+          }
+        ]
+      }
+      
+    }
+  

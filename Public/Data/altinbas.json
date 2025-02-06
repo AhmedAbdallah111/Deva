@@ -1,0 +1,378 @@
+
+{
+  "contact_info": {
+    "id":"altinbas",
+    "name":"جامعة ألتن باش - Altinbas",
+    "website":"https://www.altinbas.edu.tr",
+    "cover":"../images/Altinbas-University.jpg",
+    "logo":"../images/Altinbas-Universitylogo.jpg",
+    "address": "إسطنبول، تركيا",
+    "video":"https://www.youtube.com/embed/1KXI8gJSElI"
+  },
+    "title": "جامعة ألتن باش Altınbaş University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة ألتن باش (Altınbaş University) هي واحدة من الجامعات التركية الخاصة الرائدة، تأسست عام 2008، وتقع في مدينة إسطنبول، العاصمة الاقتصادية والثقافية لتركيا. بفضل برامجها الأكاديمية المتميزة والبنية التحتية الحديثة، تُعد خيارًا مثاليًا للطلاب المحليين والدوليين الذين يسعون للحصول على تعليم عالي الجودة.",
+    "sections": [
+      {
+        "heading": "موقع جامعة ألتن باش في إسطنبول",
+        "content": [
+          "تتمتع الجامعة بموقع استراتيجي في مدينة إسطنبول، التي تعد من أفضل المدن العالمية من حيث التعليم والثقافة.",
+          "تنتشر فروع الجامعة في مواقع قريبة من وسائل النقل والمراكز الاقتصادية، مما يمنح الطلاب سهولة التنقل وفرص التدريب العملي."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة ألتن باش",
+        "faculties": [
+          {
+            "name": "كلية الطب البشري",
+            "description": "توفر تعليمًا عالي الجودة مع مختبرات حديثة وتجارب عملية."
+          },
+          {
+            "name": "كلية طب الأسنان",
+            "description": "تُعرف بمرافقها المتطورة وبرامجها المصممة لتدريب الطلاب عمليًا."
+          },
+          {
+            "name": "كلية الهندسة",
+            "description": "تضم برامج مثل هندسة الحاسوب، والهندسة الكهربائية، وهندسة الميكانيكا."
+          },
+          {
+            "name": "كلية إدارة الأعمال",
+            "description": "تهدف إلى تأهيل الطلاب للريادة في مجالات الاقتصاد والإدارة."
+          },
+          {
+            "name": "كلية الحقوق",
+            "description": "تقدم برامج متخصصة في القانون المحلي والدولي."
+          },
+          {
+            "name": "كلية الصيدلة",
+            "description": "تُركز على أحدث الأبحاث والتقنيات في علم الأدوية."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة ألتن باش",
+        "content": "تعتمد الجامعة اللغتين الإنجليزية والتركية في التعليم، مما يتيح الفرصة للطلاب الدوليين للاندماج بسهولة."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة ألتن باش",
+        "features": [
+          {
+            "title": "بيئة تعليمية دولية",
+            "description": "تضم طلابًا من أكثر من 80 دولة حول العالم."
+          },
+          {
+            "title": "فرص التدريب العملي",
+            "description": "ترتبط الجامعة بشركات ومؤسسات كبرى، مما يمنح الطلاب فرصًا قيمة للتدريب."
+          },
+          {
+            "title": "مرافق متطورة",
+            "description": "تحتوي على مختبرات حديثة، مكتبات غنية بالمراجع، ومساحات مخصصة للأنشطة الطلابية."
+          },
+          {
+            "title": "موقع متميز",
+            "description": "تقع في إسطنبول، وهي مدينة تجمع بين التعليم والثقافة والحياة العصرية."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة ألتن باش",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر البرنامج الذي ترغب في التقديم له.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات)."
+        ],
+        "website": "https://www.altinbas.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة ألتن باش",
+        "faqs": [
+          {
+            "question": "هل الدراسة في جامعة ألتن باش باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة العديد من البرامج باللغة الإنجليزية، خاصة في كليات الطب والهندسة وإدارة الأعمال."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة ألتن باش؟",
+            "answer": "معظم برامج البكالوريوس تستغرق 4 سنوات. برامج الطب البشري تستغرق 6 سنوات، وبرامج طب الأسنان والصيدلة 5 سنوات."
+          },
+          {
+            "question": "هل تقدم جامعة ألتن باش منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة منحًا دراسية جزئية بناءً على التفوق الأكاديمي أو الاحتياجات المالية."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة ألتن باش هي واحدة من أفضل الخيارات للدراسة في تركيا، خاصةً للطلاب الذين يبحثون عن تعليم بجودة عالمية في بيئة دولية. بفضل برامجها المتنوعة، وموقعها المميز، والبنية التحتية المتطورة، تضمن الجامعة إعداد طلابها لسوق العمل بكفاءة عالية. ابدأ رحلتك الدراسية اليوم بالتقديم إلى جامعة ألتن باش، وانضم إلى مجتمع أكاديمي ملهم في قلب إسطنبول!",
+    "prices": {
+      "priceBachelor":[
+        {
+          "specialization": "Medicine - الطب البشري",
+          "language": "English",
+          "original_fee": 25000,
+          "discounted_fee_1": 21000,
+          "discounted_fee_2": 21000
+        },
+        {
+          "specialization": "Dentistry - طب الأسنان",
+          "language": "English",
+          "original_fee": 20000,
+          "discounted_fee_1": 16000,
+          "discounted_fee_2": 16000
+        },
+        {
+          "specialization": "Pharmacy - الصيدلة",
+          "language": "English",
+          "original_fee": 15000,
+          "discounted_fee_1": 11000,
+          "discounted_fee_2": 11000
+        },
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4500,
+          "discounted_fee_2": 4500
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الإلكترون",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4500,
+          "discounted_fee_2": 4500
+        },
+        {
+          "specialization": "Interior Architecture And Environmental Design - العمارة الداخلية والتصميم البيئي",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4500,
+          "discounted_fee_2": 4500
+        },
+        {
+          "specialization": "Civil Engineering - الهندسة المدنية",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4500,
+          "discounted_fee_2": 4500
+        },
+        {
+          "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4500,
+          "discounted_fee_2": 4500
+        },
+        {
+          "specialization": "Software Engineering - هندسة البرمجيات",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": 4800
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 3500,
+          "discounted_fee_2": 3500
+        },
+        {
+          "specialization": "Architecture - العمارة",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4500,
+          "discounted_fee_2": 4500
+        },
+        {
+          "specialization": "Business Administration - إدارة الأعمال",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4500,
+          "discounted_fee_2": 4500
+        },
+        {
+          "specialization": "International Logistics Management - إدارة الخدمات اللوجستية الدولية",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 3500,
+          "discounted_fee_2": 3500
+        },
+        {
+          "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 3500,
+          "discounted_fee_2": 3500
+        },
+        {
+          "specialization": "International Relations - العلاقات الدولية",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 3500,
+          "discounted_fee_2": 3500
+        },
+        {
+          "specialization": "Psychology - علم النفس",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 4500,
+          "discounted_fee_2": 4500
+        },
+        {
+          "specialization": "Sociology - علم الاجتماع",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 3500,
+          "discounted_fee_2": 3500
+        },
+        {
+          "specialization": "Economics - الاقتصاد",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 3500,
+          "discounted_fee_2": 3500
+        },
+        {
+          "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 3500,
+          "discounted_fee_2": 3500
+        }
+      ],
+      "priceMaster":[
+          {
+            "specialization": "Civil Engineering - الهندسة المدنية",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 5500,
+            "discounted_fee_2": 5500
+          },
+          {
+            "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Industrial Engineering - الهندسة الصناعية",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Architecture - العمارة",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Business Administration -إدارة الأعمال",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 5500,
+            "discounted_fee_2": 5500
+          },
+          {
+            "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Biomedical Engineering- الهندسة الطبية الحيوية",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 5500,
+            "discounted_fee_2": 5500
+          },
+          {
+            "specialization": "Electrical And Computer Engineering-هندسة الكهرباء و الكومبيوتر",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 5500,
+            "discounted_fee_2": 5500
+          },
+          {
+            "specialization": "Aesthetic Dentistry -طب الأسنان التجميلي",
+            "language": "English",
+            "original_fee": 48600,
+            "discounted_fee_1": 16200,
+            "discounted_fee_2": 16200
+          },
+          {
+            "specialization": "Aesthetic Dentistry -طب الأسنان التجميلي",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 5500,
+            "discounted_fee_2": 5500
+          },
+          {
+            "specialization": "Big Data Analytics And Managment -تحليل لبيانات الكبيرة وادارتها",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 4500,
+            "discounted_fee_2": 4500
+          },
+          {
+            "specialization": "Information Technology -تكنلوجيا المعلومات",
+            "language": "English",
+            "original_fee": 6900,
+            "discounted_fee_1": 5500,
+            "discounted_fee_2": 5500
+          },
+          {
+            "specialization": "Orthodontics-تقويم الأسنان",
+            "language": "English",
+            "original_fee": 25000,
+            "discounted_fee_1": 25000,
+            "discounted_fee_2": 25000
+          }
+      ],
+      "pricePhD":[
+        {
+          "specialization": "Business Administration -إدارة الأعمال",
+          "language": "English",
+          "original_fee": 19800,
+          "discounted_fee_1": 10000,
+          "discounted_fee_2": 10000
+        },
+        {
+          "specialization": "Business Administration -إدارة الأعمال",
+          "language": "English",
+          "original_fee": 19800,
+          "discounted_fee_1": 10000,
+          "discounted_fee_2": 10000
+        },
+        {
+          "specialization": "International Relations - العلاقات الدولية",
+          "language": "English",
+          "original_fee": 19800,
+          "discounted_fee_1": 10000,
+          "discounted_fee_2": 10000
+        },
+        {
+          "specialization": "Electrical And Computer Engineering-هندسة الكهرباء و الكومبيوتر",
+          "language": "English",
+          "original_fee": 19800,
+          "discounted_fee_1": 10000,
+          "discounted_fee_2": 10000
+        },
+        {
+          "specialization": "Periodontology-جراحة اللثة",
+          "language": "English",
+          "original_fee": 19800,
+          "discounted_fee_1": 19800,
+          "discounted_fee_2": 19800
+        },
+        {
+          "specialization": "Private Law-القانون الخاص",
+          "language": "English",
+          "original_fee": 19800,
+          "discounted_fee_1": 10000,
+          "discounted_fee_2": 10000
+        }
+      ]
+    }
+  }

@@ -1,0 +1,241 @@
+{
+    "contact_info": {
+      "id": "halic",
+      "name": "جامعة حليش - Halic University",
+      "website": "https://www.halic.edu.tr",
+      "cover": "../images/Halic-University.jpg",
+      "logo": "../images/Halic-University-1.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": "https://www.youtube.com/embed/rbJXQ9l4z3c"
+    },
+    "title": "جامعة حليش Halic University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة حليش (Halic University) هي جامعة تركية خاصة تأسست عام 1998 في إسطنبول. تُعد واحدة من الجامعات الرائدة التي تركز على الابتكار الأكاديمي وتوفير بيئة تعليمية متميزة تلبي احتياجات الطلاب المحليين والدوليين.",
+    "sections": [
+      {
+        "heading": "موقع جامعة حليش",
+        "content": [
+          "تقع الجامعة في منطقة القرن الذهبي في إسطنبول، وهي واحدة من المناطق التاريخية التي تجمع بين الجمال الطبيعي والأهمية الثقافية.",
+          "توفر الجامعة موقعًا مركزيًا يسهل الوصول إليه من مختلف أنحاء المدينة عبر وسائل النقل العامة."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة حليش",
+        "faculties": [
+          {
+            "name": "كلية الهندسة",
+            "description": "تشمل تخصصات مثل هندسة الكمبيوتر، الهندسة الكهربائية والإلكترونية، والهندسة الصناعية."
+          },
+          {
+            "name": "كلية العمارة",
+            "description": "تقدم برامج في العمارة والتصميم الداخلي."
+          },
+          {
+            "name": "كلية العلوم الصحية",
+            "description": "تضم تخصصات مثل العلاج الطبيعي، التمريض، وإدارة الرعاية الصحية."
+          },
+          {
+            "name": "كلية الاقتصاد والعلوم الإدارية والاجتماعية",
+            "description": "تشمل برامج مثل إدارة الأعمال، الاقتصاد، وعلم النفس."
+          },
+          {
+            "name": "كلية الفنون الجميلة",
+            "description": "تضم تخصصات مثل التصميم الجرافيكي، والفنون البصرية."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة حليش",
+        "content": "تُقدم الجامعة برامجها باللغتين الإنجليزية والتركية، مما يمنح الطلاب حرية الاختيار وفقًا لتفضيلاتهم واحتياجاتهم الأكاديمية."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة حليش",
+        "features": [
+          {
+            "title": "موقع استراتيجي",
+            "description": "تقع في منطقة القرن الذهبي، مما يوفر بيئة تعليمية تجمع بين التاريخ والمعاصرة."
+          },
+          {
+            "title": "تنوع البرامج الأكاديمية",
+            "description": "توفر الجامعة مجموعة واسعة من التخصصات التي تلبي احتياجات سوق العمل."
+          },
+          {
+            "title": "مرافق تعليمية متطورة",
+            "description": "تتضمن مختبرات حديثة، مكتبات متكاملة، واستوديوهات تصميم مجهزة بأحدث التقنيات."
+          },
+          {
+            "title": "هيئة تدريس متميزة",
+            "description": "تضم الجامعة أساتذة وخبراء ذوي كفاءة عالية في مجالاتهم."
+          },
+          {
+            "title": "فرص تدريب عملي",
+            "description": "تعمل الجامعة على تعزيز تجربة الطلاب من خلال برامج تدريبية بالتعاون مع شركات ومؤسسات محلية ودولية."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة حليش",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر البرنامج الدراسي الذي يناسبك.",
+          "املأ استمارة التقديم عبر الإنترنت وقم بإرفاق المستندات المطلوبة مثل جواز السفر والشهادات الأكاديمية."
+        ],
+        "website": "https://www.halic.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة حليش",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة حليش برامج باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة العديد من البرامج الأكاديمية باللغة الإنجليزية بجانب اللغة التركية."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة حليش؟",
+            "answer": "تستغرق برامج البكالوريوس عادةً 4 سنوات، وبرامج الدراسات العليا تختلف حسب التخصص."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة منحًا دراسية للطلاب المتفوقين أكاديميًا أو حسب الاحتياجات المالية."
+          },
+          {
+            "question": "هل يوجد سكن طلابي في الجامعة؟",
+            "answer": "نعم، توفر الجامعة خيارات سكن مريحة بالقرب من الحرم الجامعي."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة حليش (Halic University) تُعد من الجامعات التركية المتميزة التي تجمع بين التعليم الأكاديمي عالي الجودة والموقع الفريد في إسطنبول. بفضل برامجها المتنوعة ومرافقها الحديثة، تُعتبر خيارًا مثاليًا للطلاب الذين يسعون للحصول على تجربة تعليمية متكاملة. ابدأ رحلتك الأكاديمية بالتقديم إلى جامعة حليش اليوم!",
+    "prices": {
+      "priceBachelor":[
+        {
+          "specialization": "Medicine - الطب البشري",
+          "language": "English",
+          "original_fee": 24000,
+          "discounted_fee_1": 24000,
+          "discounted_fee_2": 22800
+        },
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الالكترون",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Software Engineering - هندسة البرمجيات",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Business Administration - إدارة الأعمال",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Management Information Systems - نظم المعلومات الادارية",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Psychology - علم النفس",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Physiotherapy And Rehabilitation - العلاج الطبيعي وإعادة التأهيل",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Nursing - تمريض",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Nutrition And Dietetics - التغذية والحمية",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Molecular Biology And Genetics - علم الأحياء الجزيئي وعلم الوراثة",
+          "language": "English",
+          "original_fee": 5200,
+          "discounted_fee_1": 5200,
+          "discounted_fee_2": 4940
+        },
+        {
+          "specialization": "Sports Management - الإدارة الرياضية",
+          "language": "English",
+          "original_fee": 4800,
+          "discounted_fee_1": 4800,
+          "discounted_fee_2": 4560
+        }
+      ],
+      "priceMaster":[
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 7500,
+          "discounted_fee_1": 7500,
+          "discounted_fee_2": 7125
+        },
+        {
+          "specialization": "Business Administration -إدارة الأعمال",
+          "language": "English",
+          "original_fee": 7500,
+          "discounted_fee_1": 7500,
+          "discounted_fee_2": 7125
+        },
+        {
+          "specialization": "International Business Management -إدارة الأعمال الدولية",
+          "language": "English",
+          "original_fee": 7500,
+          "discounted_fee_1": 7500,
+          "discounted_fee_2": 7125
+        }
+      ]
+      
+    }
+  }
+  

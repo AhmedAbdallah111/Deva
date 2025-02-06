@@ -1,0 +1,538 @@
+{
+  "contact_info": {
+    "id":"bahcesehir",
+    "name":"جامعة بهشة شهير - Bahçeşehir University",
+    "website":"https://www.bau.edu.tr",
+    "cover":"../images/Bahcesehir-Istanbul.jpg",
+    "logo":"../images/University-logo-BAU.jpg",
+    "address": "إسطنبول, تركيا",
+    "video":"https://www.youtube.com/embed/4xuWgJsXNLk"
+  },
+    "title": "جامعة بهشة شهير Bahçeşehir University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة بهشة شهير (Bahçeşehir University) هي واحدة من الجامعات التركية الخاصة الرائدة، تأسست عام 1998 في قلب مدينة إسطنبول. تُعرف الجامعة بشعارها 'جامعة قلب إسطنبول' وتتميز ببرامجها الأكاديمية ذات الجودة العالية والبنية التحتية المتطورة، مما يجعلها وجهة مفضلة للطلاب المحليين والدوليين.",
+    "sections": [
+      {
+        "heading": "موقع جامعة بهشة شهير في إسطنبول",
+        "content": [
+          "تقع الجامعة في منطقة بشكتاش (Beşiktaş) المميزة بإطلالتها على البوسفور، وهي منطقة تجمع بين الحداثة والطابع الثقافي.",
+          "تعد الجامعة واحدة من أفضل الجامعات من حيث موقعها الذي يتيح سهولة الوصول إلى وسائل النقل والمعالم السياحية والثقافية."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة بهشة شهير",
+        "faculties": [
+          {
+            "name": "كلية الطب البشري",
+            "description": "تقدم برامج طبية متقدمة مع مختبرات حديثة ومرافق تدريبية عالية المستوى."
+          },
+          {
+            "name": "كلية طب الأسنان",
+            "description": "توفر الجامعة برامج شاملة في طب الأسنان مع تركيز على التدريب العملي."
+          },
+          {
+            "name": "كلية الهندسة والعلوم الطبيعية",
+            "description": "تشمل تخصصات مثل الهندسة المدنية، هندسة البرمجيات، وهندسة الكهرباء والإلكترونيات."
+          },
+          {
+            "name": "كلية العمارة والتصميم",
+            "description": "تقدم برامج في التصميم الداخلي، والهندسة المعمارية، وتصميم المنتجات."
+          },
+          {
+            "name": "كلية الاقتصاد والعلوم الإدارية",
+            "description": "تركز على برامج إدارة الأعمال، والاقتصاد، والعلاقات الدولية."
+          },
+          {
+            "name": "كلية الحقوق",
+            "description": "توفر تعليمًا عالي الجودة في القانون التركي والدولي."
+          },
+          {
+            "name": "كلية الفنون والإعلام",
+            "description": "تشمل تخصصات مثل الإعلام الرقمي، السينما والتلفزيون، وفنون الاتصال."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة بهشة شهير",
+        "content": "تعتمد الجامعة اللغة الإنجليزية كلغة رئيسية لمعظم برامجها، مع وجود بعض البرامج التي تُدرس باللغة التركية."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة بهشة شهير",
+        "features": [
+          {
+            "title": "موقع استراتيجي",
+            "description": "تقع الجامعة في منطقة بشكتاش بوسط إسطنبول، مما يمنح الطلاب تجربة دراسية مميزة."
+          },
+          {
+            "title": "شبكة جامعات عالمية",
+            "description": "تتعاون الجامعة مع العديد من الجامعات والمؤسسات التعليمية حول العالم، مما يوفر فرصًا للتبادل الأكاديمي."
+          },
+          {
+            "title": "مرافق حديثة",
+            "description": "تحتوي الجامعة على مكتبات غنية، مختبرات متطورة، واستوديوهات تصميم وابتكار."
+          },
+          {
+            "title": "فرص التدريب العملي",
+            "description": "ترتبط الجامعة بشراكات قوية مع الشركات والمؤسسات الكبرى لتوفير فرص تدريب للطلاب."
+          },
+          {
+            "title": "مجتمع طلابي دولي",
+            "description": "تستقطب الجامعة طلابًا من أكثر من 100 دولة، مما يخلق بيئة تعليمية متنوعة ثقافيًا."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة بهشة شهير",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر التخصص الذي ترغب في دراسته.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات)."
+        ],
+        "website": "https://www.bau.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة بهشة شهير",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة بهشة شهير برامج باللغة الإنجليزية؟",
+            "answer": "نعم، معظم برامج الجامعة تُدرس باللغة الإنجليزية، مما يجعلها خيارًا مفضلًا للطلاب الدوليين."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة بهشة شهير؟",
+            "answer": "تستغرق برامج البكالوريوس عادةً 4 سنوات، بينما تستغرق برامج الطب البشري 6 سنوات وبرامج طب الأسنان 5 سنوات."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة العديد من المنح الدراسية بناءً على التفوق الأكاديمي أو الظروف المالية."
+          },
+          {
+            "question": "هل يمكنني التقديم للجامعة عبر الإنترنت؟",
+            "answer": "نعم، يمكنك التقديم من خلال الموقع الرسمي للجامعة وتقديم الوثائق المطلوبة."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة بهشة شهير (Bahçeşehir University) هي واحدة من أفضل الجامعات التركية التي تجمع بين التعليم الأكاديمي عالي الجودة والمرافق الحديثة. بفضل موقعها المميز وبرامجها المتنوعة، تُعد وجهة مثالية للطلاب الذين يبحثون عن تجربة تعليمية متميزة في قلب إسطنبول. ابدأ رحلتك الدراسية الآن بالتقديم إلى جامعة بهشة شهير!",
+    
+    "prices": {
+    "priceBachelor":[
+        {
+          "specialization": "Medicine-الطب البشري",
+          "language": "English",
+          "original_fee": 27000,
+          "discounted_fee_1": 27000,
+          "discounted_fee_2": 27000
+        },
+        {
+          "specialization": "Dentistry-طب الأسنان",
+          "language": "English",
+          "original_fee": 22000,
+          "discounted_fee_1": 22000,
+          "discounted_fee_2": 22000
+        },
+        {
+          "specialization": "Pharmacy-الصيدلة",
+          "language": "English",
+          "original_fee": 15000,
+          "discounted_fee_1": 15000,
+          "discounted_fee_2": 15000
+        },
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Interior Architecture And Environmental Design - العمارة الداخلية والتصميم البيئي",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Civil Engineering - الهندسة المدنية",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Software Engineering - هندسة البرمجيات",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Architecture - العمارة",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Business Administration -إدارة الأعمال",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Psychology - علم النفس",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Sociology - علم الاجتماع",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Fashion and Textile Design-تصميم الأزياء و النسيج",
+          "language": "English",
+          "original_fee": null,
+          "discounted_fee_1": null,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "Gastronomy And Culinary Arts - فن الطهو وفنون الطهي",
+          "language": "English",
+          "original_fee": 5950,
+          "discounted_fee_1": 5950,
+          "discounted_fee_2": 5950
+        },
+        {
+          "specialization": "Physiotherapy And Rehabilitation - العلاج الطبيعي وإعادة التأهيل",
+          "language": "English",
+          "original_fee": 5950,
+          "discounted_fee_1": 5950,
+          "discounted_fee_2": 5950
+        },
+        {
+          "specialization": "Nursing - تمريض",
+          "language": "English",
+          "original_fee": 5950,
+          "discounted_fee_1": 5950,
+          "discounted_fee_2": 5950
+        },
+        {
+          "specialization": "Nutrition And Dietetics -التغذية والحمية",
+          "language": "English",
+          "original_fee": 5950,
+          "discounted_fee_1": 5950,
+          "discounted_fee_2": 5950
+        },
+        {
+          "specialization": "Public Relations And Advertising - العلاقات العامة والإعلان",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Pilotage -طيران احترافي",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Energy Systems Engineering - هندسة نظم الطاقة",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Mechatronics Engineering - هندسة الميكاترونكس",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Economics - الاقتصاد",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Mathematics - الرياضيات",
+          "language": "English",
+          "original_fee": 8200,
+          "discounted_fee_1": 8200,
+          "discounted_fee_2": 8200
+        },
+        {
+          "specialization": "Industrial Design - التصميم الصناعي",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Management Engineering - هندسة الإدارة",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Artificial Intelligence Engineering - هندسة الذكاء الاصطناعي",
+          "language": "English",
+          "original_fee": 9000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Economics And Finance -الاقتصاد والمالية",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1": 8500,
+          "discounted_fee_2": 8500
+        },
+        {
+          "specialization": "Logistics Management - إدارة الخدمات اللوجستية",
+          "language": "English",
+          "original_fee": 8500,
+          "discounted_fee_1":8500,
+          "discounted_fee_2":8500
+          }
+    ],
+    "priceMaster":[
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+          "language": "English",
+          "original_fee": 12000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 12000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Architecture - العمارة",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Business Administration -إدارة الأعمال",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Mechatronics Engineering - هندسة الميكاترونكس",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Artificial Intelligence Engineering - هندسة الذكاء الاصطناعي",
+          "language": "English",
+          "original_fee": 12000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Marketing - التسويق",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Neuroscience-علم الأعصاب",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Global Affairs-العلاقات الدولية",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Cyber Security -الأمن المعلوماتي و السيبراني",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Guidance And Councelling-الإرشاد النفسي و التوجيه",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        },
+        {
+          "specialization": "Capital Markets And Finance -الأسواق الكبرى و المالية",
+          "language": "English",
+          "original_fee": 12000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Educational Design And Evaluation -التصميم و التقييم التعليمي",
+          "language": "English",
+          "original_fee": 12000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Big Data Analytics And Managment -تحليل لبيانات الكبيرة وادارتها",
+          "language": "English",
+          "original_fee": 12000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Information Technology -تكنلوجيا المعلومات",
+          "language": "English",
+          "original_fee": 12000,
+          "discounted_fee_1": 9000,
+          "discounted_fee_2": 9000
+        },
+        {
+          "specialization": "Artificial Intelligence - الذكاء الاصطناعي",
+          "language": "English",
+          "original_fee": 14000,
+          "discounted_fee_1": 10500,
+          "discounted_fee_2": 10500
+        }
+    ],
+    "pricePhD":[
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Architecture - العمارة",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Business Administration -إدارة الأعمال",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Economics And Finance -الاقتصاد والمالية",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "English Language Teaching - تدريس اللغة الإنجليزية",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Bioengineering - الهندسة الحيوية",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Neuroscience-علم الأعصاب",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        },
+        {
+          "specialization": "Cinema And Media Studies-السينما و دراسات الإعلام",
+          "language": "English",
+          "original_fee": 40000,
+          "discounted_fee_1": 40000,
+          "discounted_fee_2": 40000
+        }
+    ]
+  }
+  }
+  

@@ -1,0 +1,539 @@
+
+  {"contact_info": {
+    "id":"atilim",
+    "name":"جامعة أتيليم - Atilim University",
+    "website":"https://www.atilim.edu.tr",
+    "cover":"../images/Atilim-University-2.jpg",
+    "logo":"../images/Atilim-Universitylogo.jpg",
+    "address": "أنقرة, تركيا",
+    "video":"https://www.youtube.com/embed/W0-fpUYy5xQ"
+  },
+    "title": "جامعة أتيليم Atilim University: دليلك الشامل للدراسة في أنقرة",
+    "introduction": "جامعة أتيليم (Atilim University) هي جامعة تركية خاصة تأسست عام 1997 في العاصمة أنقرة. بفضل برامجها الأكاديمية المتميزة وموقعها الاستراتيجي، تُعد من أفضل الجامعات الخاصة في تركيا التي تقدم تعليمًا عالي الجودة يواكب التطورات العالمية.",
+    "sections": [
+      {
+        "heading": "موقع جامعة أتيليم في أنقرة",
+        "content": [
+          "تقع الجامعة في العاصمة التركية أنقرة، التي تُعد مركزًا سياسيًا وتعليميًا في تركيا.",
+          "توفر الجامعة بيئة تعليمية حديثة ومرافق متطورة قريبة من وسائل النقل والمراكز الحيوية."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة أتيليم",
+        "faculties": [
+          {
+            "name": "كلية الهندسة",
+            "description": "تضم تخصصات مثل الهندسة الميكانيكية، هندسة الحاسوب، والهندسة الكهربائية والإلكترونية."
+          },
+          {
+            "name": "كلية الطب البشري",
+            "description": "توفر برامج طبية متقدمة مع مختبرات حديثة وتجارب عملية شاملة."
+          },
+          {
+            "name": "كلية إدارة الأعمال",
+            "description": "تركز على تأهيل الطلاب لمجالات الاقتصاد وإدارة الأعمال الدولية."
+          },
+          {
+            "name": "كلية الحقوق",
+            "description": "تقدم برامج متخصصة في القانون التركي والدولي."
+          },
+          {
+            "name": "كلية الفنون والتصميم",
+            "description": "تشمل تخصصات مثل التصميم الداخلي، وتصميم الأزياء، والفنون الجميلة."
+          },
+          {
+            "name": "كلية العلوم الصحية",
+            "description": "تقدم برامج متقدمة في التمريض، العلاج الطبيعي، والتغذية."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة أتيليم",
+        "content": "تُقدم الجامعة برامجها الدراسية باللغتين الإنجليزية والتركية، مما يتيح للطلاب الدوليين والمحليين فرصة الاندماج بسهولة."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة أتيليم",
+        "features": [
+          {
+            "title": "موقع استراتيجي",
+            "description": "تقع الجامعة في أنقرة، مما يوفر فرص تعليمية وحياتية متنوعة."
+          },
+          {
+            "title": "بيئة تعليمية متقدمة",
+            "description": "تحتوي على مختبرات ومكتبات حديثة مجهزة بأحدث التقنيات."
+          },
+          {
+            "title": "فرص تدريب عملي",
+            "description": "ترتبط الجامعة بشراكات مع مؤسسات محلية ودولية، مما يمنح الطلاب خبرة عملية أثناء دراستهم."
+          },
+          {
+            "title": "مجتمع دولي",
+            "description": "تستقطب الجامعة طلابًا من أكثر من 50 دولة، مما يعزز من التفاعل الثقافي والاجتماعي."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة أتيليم",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر البرنامج الأكاديمي الذي ترغب في التقديم له.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات)."
+        ],
+        "website": "https://www.atilim.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة أتيليم",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة أتيليم برامج دراسية باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة العديد من البرامج الدراسية باللغة الإنجليزية، خاصةً في الكليات الهندسية والإدارية."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة أتيليم؟",
+            "answer": "معظم برامج البكالوريوس تستغرق 4 سنوات، وبرامج الطب البشري تستغرق 6 سنوات."
+          },
+          {
+            "question": "هل تقدم الجامعة منحًا دراسية؟",
+            "answer": "نعم، توفر الجامعة منحًا دراسية بناءً على التفوق الأكاديمي وظروف الطلاب المالية."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة أتيليم هي واحدة من أفضل الجامعات الخاصة في تركيا التي تقدم تعليمًا عالي الجودة في بيئة تعليمية حديثة. إذا كنت تبحث عن تعليم بجودة عالمية وفرص متميزة للتدريب والتطوير، فإن جامعة أتيليم ستكون خيارك المثالي. ابدأ رحلتك الأكاديمية اليوم وانضم إلى مجتمع طلابي متميز في أنقرة!",
+    "prices": {
+      "priceBachelor":[
+        {
+          "specialization": "Medicine - الطب البشري",
+          "language": "English",
+          "original_fee": 16500,
+          "discounted_fee_1": 16500,
+          "discounted_fee_2": 16500
+        },
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الإلكترون",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Civil Engineering - الهندسة المدنية",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Software Engineering - هندسة البرمجيات",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Business Administration - إدارة الأعمال",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "International Relations - العلاقات الدولية",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Psychology - علم النفس",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Physiotherapy And Rehabilitation - العلاج الطبيعي وإعادة التأهيل",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Nursing - تمريض",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Nutrition And Dietetics - التغذية والحمية",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Audiology - السمعيات",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Public Relations And Advertising - العلاقات العامة والإعلان",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Pilotage - طيران احترافي",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Aviation Management - إدارة الطيران",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Information Systems Engineering - هندسة نظم المعلومات",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Energy Systems Engineering - هندسة نظم الطاقة",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Aerospace Engineering - هندسة الطيران",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Chemical Engineering - الهندسة الكيميائية",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Mechatronics Engineering - هندسة الميكاترونكس",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Metallurgical And Materials Engineering - هندسة المعادن والمواد",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Automotive Engineering - هندسة السيارات",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Aircraft Electrical And Electronics - كهرباء وإلكترونيات الطائرات",
+          "language": "English",
+          "original_fee": 9800,
+          "discounted_fee_1": 4900,
+          "discounted_fee_2": 4900
+        },
+        {
+          "specialization": "Airframe And Engine Maintenance - هيكل الطائرة وصيانة المحرك",
+          "language": "English",
+          "original_fee": 9800,
+          "discounted_fee_1": 4900,
+          "discounted_fee_2": 4900
+        },
+        {
+          "specialization": "Economics - الاقتصاد",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Tourism Management - إدارة السياحة",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "International Trade And Logistics - التجارة الدولية واللوجستيات",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        },
+        {
+          "specialization": "Mathematics - الرياضيات",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 8250,
+          "discounted_fee_2": 8250
+        }
+      ],
+      "priceMaster":[
+        {
+          "specialization": "Computer Engineering - هندسة الكمبيوتر",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الإلكترون",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Civil Engineering - الهندسة المدنية",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Software Engineering - هندسة البرمجيات",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Industrial Engineering - الهندسة الصناعية",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Architecture - العمارة",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Business Administration - إدارة الأعمال",
+          "language": "English",
+          "original_fee": 6900,
+          "discounted_fee_1": 6500,
+          "discounted_fee_2": 6500
+        },
+        {
+          "specialization": "Business Administration - إدارة الأعمال",
+          "language": "English",
+          "original_fee": 6620,
+          "discounted_fee_1": 6620,
+          "discounted_fee_2": 6620
+        },
+        {
+          "specialization": "International Relations - العلاقات الدولية",
+          "language": "English",
+          "original_fee": 19800,
+          "discounted_fee_1": 6500,
+          "discounted_fee_2": 6500
+        },
+        {
+          "specialization": "International Relations - العلاقات الدولية",
+          "language": "English",
+          "original_fee": 6620,
+          "discounted_fee_1": 6620,
+          "discounted_fee_2": 6620
+        },
+        {
+          "specialization": "Mechatronics Engineering - هندسة الميكاترونكس",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+          "language": "English",
+          "original_fee": 8000,
+          "discounted_fee_1": 6500,
+          "discounted_fee_2": 6500
+        },
+        {
+          "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+          "language": "English",
+          "original_fee": 6620,
+          "discounted_fee_1": 6620,
+          "discounted_fee_2": 6620
+        },
+        {
+          "specialization": "Mathematics - الرياضيات",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Applied Economics - الاقتصاد التطبيقي",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Clinical Psychology - علم النفس السريري",
+          "language": "English",
+          "original_fee": 11000,
+          "discounted_fee_1": 11000,
+          "discounted_fee_2": 11000
+        },
+        {
+          "specialization": "Translation Studies - دراسات الترجمة",
+          "language": "English",
+          "original_fee": 6620,
+          "discounted_fee_1": 6620,
+          "discounted_fee_2": 6620
+        },
+        {
+          "specialization": "Information Technology - تكنلوجيا المعلومات",
+          "language": "English",
+          "original_fee": 8150,
+          "discounted_fee_1": 8150,
+          "discounted_fee_2": 8150
+        },
+        {
+          "specialization": "Physics - الفيزياء",
+          "language": "English",
+          "original_fee": 8760,
+          "discounted_fee_1": 8760,
+          "discounted_fee_2": 8760
+        }
+      ],
+      "pricePhD":[
+        {
+          "specialization": "Electrical And Electronics Engineering - هندسة الكهرباء و الإلكترون",
+          "language": "English",
+          "original_fee": 22000,
+          "discounted_fee_1": 22000,
+          "discounted_fee_2": 22000
+        },
+        {
+          "specialization": "Civil Engineering - الهندسة المدنية",
+          "language": "English",
+          "original_fee": 22000,
+          "discounted_fee_1": 22000,
+          "discounted_fee_2": 22000
+        },
+        {
+          "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+          "language": "English",
+          "original_fee": 22000,
+          "discounted_fee_1": 22000,
+          "discounted_fee_2": 22000
+        },
+        {
+          "specialization": "Software Engineering - هندسة البرمجيات",
+          "language": "English",
+          "original_fee": 22000,
+          "discounted_fee_1": 22000,
+          "discounted_fee_2": 22000
+        },
+        {
+          "specialization": "Business Administration - إدارة الأعمال",
+          "language": "English",
+          "original_fee": 20370,
+          "discounted_fee_1": 20370,
+          "discounted_fee_2": 20370
+        },
+        {
+          "specialization": "Business Administration - إدارة الأعمال",
+          "language": "English",
+          "original_fee": 20000,
+          "discounted_fee_1": 20000,
+          "discounted_fee_2": null
+        },
+        {
+          "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+          "language": "English",
+          "original_fee": 13240,
+          "discounted_fee_1": 13240,
+          "discounted_fee_2": 13240
+        },
+        {
+          "specialization": "Chemistry - الكيمياء",
+          "language": "English",
+          "original_fee": 22000,
+          "discounted_fee_1": 22000,
+          "discounted_fee_2": 22000
+        },
+        {
+          "specialization": "Mathematics - الرياضيات",
+          "language": "English",
+          "original_fee": 22000,
+          "discounted_fee_1": 22000,
+          "discounted_fee_2": 22000
+        },
+        {
+          "specialization": "Modeling And Design Of Engineering Systems - نمذجة و تصميم النظم الهندسية",
+          "language": "English",
+          "original_fee": 22000,
+          "discounted_fee_1": 22000,
+          "discounted_fee_2": 22000
+        }
+      ]
+      }
+  }
+

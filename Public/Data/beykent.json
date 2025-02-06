@@ -1,0 +1,253 @@
+{
+  "contact_info": {
+    "id":"beykent",
+    "name":"جامعة بيكنت - Beykent University",
+    "website":"https://www.beykent.edu.tr",
+    "cover":"../images/Beykent-University-2.jpg",
+    "logo":"../images/Beykent-University.jpg",
+    "address": "إسطنبول, تركيا",
+    "video":"https://www.youtube.com/embed/WNo43N4VNWk"
+  },
+    "title": "جامعة بيكنت Beykent University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة بيكنت (Beykent University) هي جامعة تركية خاصة تأسست عام 1997 في مدينة إسطنبول. تُعرف الجامعة بجودة برامجها الأكاديمية وتنوع تخصصاتها، مما يجعلها خيارًا متميزًا للطلاب المحليين والدوليين الباحثين عن تعليم عالي الجودة.",
+    "sections": [
+      {
+        "heading": "موقع جامعة بيكنت",
+        "content": [
+          "تقع الجامعة في مدينة إسطنبول ولديها عدة فروع في الجانب الأوروبي من المدينة، مما يتيح للطلاب سهولة الوصول إلى الحرم الجامعي.",
+          "تتميز مواقع الجامعة بقربها من وسائل النقل العامة والمراكز التجارية والثقافية، مما يوفر بيئة تعليمية وحياتية مريحة."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة بيكنت",
+        "faculties": [
+          {
+            "name": "كلية الطب البشري",
+            "description": "توفر تعليمًا طبيًا متميزًا مع تدريب عملي في مستشفيات حديثة."
+          },
+          {
+            "name": "كلية طب الأسنان",
+            "description": "تقدم برامج شاملة في طب الأسنان مع مرافق تعليمية متطورة."
+          },
+          {
+            "name": "كلية الهندسة والعلوم المعمارية",
+            "description": "تشمل تخصصات مثل هندسة البرمجيات، الهندسة المدنية، والهندسة المعمارية."
+          },
+          {
+            "name": "كلية إدارة الأعمال والعلوم الاقتصادية",
+            "description": "تضم برامج مثل الاقتصاد، إدارة الأعمال، والتجارة الدولية."
+          },
+          {
+            "name": "كلية الفنون الجميلة",
+            "description": "تشمل تخصصات مثل التصميم الجرافيكي، التصميم الداخلي، وتصميم الأزياء."
+          },
+          {
+            "name": "كلية الحقوق",
+            "description": "توفر برامج متخصصة في القانون التركي والدولي."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة بيكنت",
+        "content": "تقدم الجامعة برامجها باللغتين الإنجليزية والتركية، مما يتيح مرونة كبيرة للطلاب المحليين والدوليين."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة بيكنت",
+        "features": [
+          {
+            "title": "موقع استراتيجي",
+            "description": "تقع في الجانب الأوروبي من إسطنبول، مما يجعلها قريبة من العديد من المرافق الحيوية."
+          },
+          {
+            "title": "برامج أكاديمية متنوعة",
+            "description": "توفر الجامعة مجموعة واسعة من التخصصات التي تغطي المجالات الطبية والهندسية والإدارية."
+          },
+          {
+            "title": "مرافق حديثة",
+            "description": "تشمل مختبرات متطورة، مكتبات واسعة، ومرافق رياضية متميزة."
+          },
+          {
+            "title": "فرص تدريب عملي",
+            "description": "ترتبط الجامعة بشراكات مع شركات ومؤسسات محلية ودولية لتوفير فرص تدريب متميزة للطلاب."
+          },
+          {
+            "title": "مجتمع طلابي دولي",
+            "description": "تستقطب الجامعة طلابًا من أكثر من 70 دولة، مما يعزز التنوع الثقافي والتفاعل الاجتماعي."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة بيكنت",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر البرنامج الأكاديمي المناسب لتطلعاتك.",
+          "املأ استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة مثل جواز السفر والشهادات الأكاديمية."
+        ],
+        "website": "https://www.beykent.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة بيكنت",
+        "faqs": [
+          {
+            "question": "هل تقدم جامعة بيكنت برامج دراسية باللغة الإنجليزية؟",
+            "answer": "نعم، تقدم الجامعة العديد من البرامج باللغة الإنجليزية، خاصة في الكليات العلمية والإدارية."
+          },
+          {
+            "question": "ما هي مدة الدراسة في جامعة بيكنت؟",
+            "answer": "برامج البكالوريوس تستغرق عادةً 4 سنوات، بينما برامج الطب البشري تستغرق 6 سنوات وبرامج طب الأسنان 5 سنوات."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة منحًا دراسية جزئية بناءً على الأداء الأكاديمي وظروف الطلاب."
+          },
+          {
+            "question": "هل توفر الجامعة سكنًا للطلاب؟",
+            "answer": "نعم، توفر الجامعة خيارات سكنية مريحة بالقرب من الحرم الجامعي."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة بيكنت (Beykent University) هي واحدة من أفضل الجامعات التركية الخاصة التي تجمع بين التعليم الأكاديمي عالي الجودة والمرافق الحديثة. بفضل موقعها المميز وبرامجها الأكاديمية المتنوعة، تُعد خيارًا مثاليًا للطلاب المحليين والدوليين الباحثين عن تجربة تعليمية متميزة. ابدأ رحلتك الدراسية اليوم بالتقديم إلى جامعة بيكنت وانضم إلى مجتمع أكاديمي متنوع ودولي!",
+  "prices": {
+    "priceBachelor":[
+      {
+        "specialization": "Computer Engineering - هندسة الكمبيوتر",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Civil Engineering - الهندسة المدنية",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Mechanical Engineering - الهندسة الميكانيكية",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Industrial Engineering - الهندسة الصناعية",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Architecture - العمارة",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Business Administration -إدارة الأعمال",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "International Relations - العلاقات الدولية",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Sociology - علم الاجتماع",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Radio And Television Programming - راديو وتلفزيون وسينما",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Economics - الاقتصاد",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Industrial Design - التصميم الصناعي",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Interior Architecture - العمارة الداخلية",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "Finance And Banking - العلوم المالية والمصرفية",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "New Media And Communication - وسائل الإعلام والاتصالات الجديدة",
+        "language": "English",
+        "original_fee": 6000,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      },
+      {
+        "specialization": "New Media Communications And Journalism-الإعلام الجديد و الاتصال و الصحافة",
+        "language": "English",
+        "original_fee": 6600,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 3025
+      }
+    ],
+    "priceMaster":[
+      {
+        "specialization": "Business Administration -إدارة الأعمال",
+        "language": "English",
+        "original_fee": 6000,
+        "discounted_fee_1": null,
+        "discounted_fee_2": 2750
+      },
+      {
+        "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+        "language": "English",
+        "original_fee":7200,
+        "discounted_fee_1": 3300,
+        "discounted_fee_2": 1731
+      }
+    ]
+    
+  
+  }
+  }
+  

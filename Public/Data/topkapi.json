@@ -1,0 +1,204 @@
+{
+    "contact_info": {
+      "id": "topkapi",
+      "name": "جامعة توبكابي - Topkapi University",
+      "website": "https://www.topkapi.edu.tr",
+      "cover": "../images/Topkapi-cover.jpg",
+      "logo": "../images/Topkapi.jpg",
+      "address": "إسطنبول, تركيا",
+      "video": "https://www.youtube.com/embed/UDRwKmhbJUg"
+    },
+    "title": "جامعة توبكابي Topkapi University: دليل شامل للدراسة في إسطنبول",
+    "introduction": "جامعة توبكابي (Topkapi University) هي إحدى الجامعات التركية الخاصة التي تقدم تعليمًا عالي الجودة في مجموعة متنوعة من التخصصات. تأسست الجامعة بهدف الجمع بين التعليم الأكاديمي والتطبيقي لتأهيل الطلاب لسوق العمل المحلي والدولي.",
+    "sections": [
+      {
+        "heading": "موقع جامعة توبكابي",
+        "content": [
+          "تقع الجامعة في مدينة إسطنبول، مما يوفر للطلاب فرصة الاستمتاع بالحياة الثقافية والاجتماعية الغنية لهذه المدينة الحيوية.",
+          "تمتلك الجامعة فروعًا في مواقع استراتيجية يسهل الوصول إليها من خلال وسائل النقل العامة."
+        ]
+      },
+      {
+        "heading": "الكليات والتخصصات في جامعة توبكابي",
+        "faculties": [
+          {
+            "name": "كلية الهندسة",
+            "description": "تشمل تخصصات مثل الهندسة المدنية، هندسة الكمبيوتر، والهندسة الكهربائية."
+          },
+          {
+            "name": "كلية إدارة الأعمال",
+            "description": "تقدم برامج متميزة في الإدارة، المالية، والتسويق."
+          },
+          {
+            "name": "كلية الفنون الجميلة",
+            "description": "تركز على مجالات مثل التصميم الجرافيكي، التصوير الفوتوغرافي، والفنون البصرية."
+          },
+          {
+            "name": "كلية العلوم الصحية",
+            "description": "تغطي تخصصات مثل التمريض والعلاج الطبيعي."
+          },
+          {
+            "name": "كلية الإعلام والاتصال",
+            "description": "تُقدم برامج في الصحافة، العلاقات العامة، والإنتاج الإعلامي."
+          }
+        ]
+      },
+      {
+        "heading": "لغة الدراسة في جامعة توبكابي",
+        "content": "توفر الجامعة برامج دراسية باللغتين التركية والإنجليزية لتلبية احتياجات الطلاب المحليين والدوليين."
+      },
+      {
+        "heading": "مميزات الدراسة في جامعة توبكابي",
+        "features": [
+          {
+            "title": "موقع مركزي",
+            "description": "تقع الجامعة في مواقع استراتيجية داخل إسطنبول، مما يسهل التنقل والوصول."
+          },
+          {
+            "title": "برامج أكاديمية شاملة",
+            "description": "تقدم الجامعة مجموعة واسعة من البرامج الأكاديمية التي تغطي مختلف المجالات."
+          },
+          {
+            "title": "شراكات دولية",
+            "description": "تمتلك الجامعة شراكات مع جامعات ومؤسسات دولية لتعزيز التبادل الأكاديمي."
+          },
+          {
+            "title": "مرافق تعليمية حديثة",
+            "description": "تشمل قاعات دراسية مجهزة، مختبرات متطورة، ومكتبات حديثة."
+          },
+          {
+            "title": "فرص تدريب عملي",
+            "description": "تُوفر الجامعة فرص تدريب في الشركات والمؤسسات لتعزيز خبرات الطلاب العملية."
+          }
+        ]
+      },
+      {
+        "heading": "كيفية التقديم لجامعة توبكابي",
+        "steps": [
+          "قم بزيارة الموقع الرسمي للجامعة.",
+          "اختر البرنامج الذي يناسب اهتماماتك وطموحاتك.",
+          "قم بملء استمارة التقديم عبر الإنترنت وأرفق المستندات المطلوبة (مثل جواز السفر والشهادات الدراسية)."
+        ],
+        "website": "https://www.topkapi.edu.tr"
+      },
+      {
+        "heading": "الأسئلة الشائعة عن جامعة توبكابي",
+        "faqs": [
+          {
+            "question": "ما هي لغة الدراسة في جامعة توبكابي؟",
+            "answer": "تُقدم الجامعة برامجها باللغتين التركية والإنجليزية."
+          },
+          {
+            "question": "هل توفر الجامعة منحًا دراسية؟",
+            "answer": "نعم، تقدم الجامعة منحًا دراسية بناءً على التفوق الأكاديمي واحتياجات الطلاب."
+          },
+          {
+            "question": "هل تقدم الجامعة فرص تدريب عملي؟",
+            "answer": "نعم، توفر الجامعة فرص تدريب عملي في مجالات متنوعة بالتعاون مع شركات محلية ودولية."
+          },
+          {
+            "question": "هل يمكنني التقديم للجامعة عبر الإنترنت؟",
+            "answer": "نعم، يمكن التقديم عبر الموقع الرسمي للجامعة بكل سهولة."
+          }
+        ]
+      }
+    ],
+    "conclusion": "جامعة توبكابي (Topkapi University) هي الخيار المثالي للطلاب الباحثين عن تعليم أكاديمي متميز في بيئة تعليمية متطورة. بفضل تنوع برامجها وشراكاتها الدولية، تتيح الجامعة فرصًا واسعة لتحقيق طموحات الطلاب الأكاديمية والمهنية. ابدأ مستقبلك الآن من خلال التقديم إلى جامعة توبكابي!",
+    "prices": {
+      "priceBachelor":[
+            {
+              "specialization": "Computer Engineering - هندسة الكمبيوتر",
+              "language": "English",
+              "original_fee": 6500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 3250
+            },
+            {
+              "specialization": "Business Administration -إدارة الأعمال",
+              "language": "English",
+              "original_fee": 5500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 2750
+            },
+            {
+              "specialization": "Management Information Systems - نظم المعلومات الادارية",
+              "language": "English",
+              "original_fee": 5500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 2750
+            },
+            {
+              "specialization": "Political Science And International Relations - العلوم السياسية والإدارة العامة",
+              "language": "English",
+              "original_fee": 5500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 2750
+            },
+            {
+              "specialization": "Psychology - علم النفس",
+              "language": "English",
+              "original_fee": 6500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 3250
+            },
+            {
+              "specialization": "Economics - الاقتصاد",
+              "language": "English",
+              "original_fee": 5500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 2750
+            },
+            {
+              "specialization": "English Language And Literature - اللغة الإنجليزية وآدابها",
+              "language": "English",
+              "original_fee": 5500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 2750
+            },
+            {
+              "specialization": "International Trade And Business - التجارة الدولية والأعمال",
+              "language": "English",
+              "original_fee": 5500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 2750
+            },
+            {
+              "specialization": "Applied English And Translation -الترجمة التطبيقية (التركية-الإنجليزية)",
+              "language": "English",
+              "original_fee": 5500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 2750
+            },
+            {
+              "specialization": "Electrical And Computer Engineering-هندسة الكهرباء و الكومبيوتر",
+              "language": "English",
+              "original_fee": 6500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 3250
+            }
+          ],
+          "priceMaster":[
+            {
+              "specialization": "Electrical And Electronics Engineering -هندسة الكهرباء و الالكترون",
+              "language": "English",
+              "original_fee":7500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 3750
+            },
+            {
+              "specialization": "Business Administration -إدارة الأعمال",
+              "language": "English",
+              "original_fee":7500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 3750
+            },
+            {
+              "specialization": "Management Information Systems - نظم المعلومات الادارية",
+              "language": "English",
+              "original_fee":7500,
+              "discounted_fee_1": null,
+              "discounted_fee_2": 3750
+            }
+          ]
+        }  
+    }
